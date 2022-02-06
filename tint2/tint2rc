@@ -1086,7 +1086,7 @@ background_color_pressed = #555555 4
 border_color_pressed = #eaeaea 44
 #-------------------------------------
 # Panel
-panel_items = :ET:EEEBCS
+panel_items = :ET:EEEEEEBCS
 panel_size = 100% 30
 panel_margin = 0 0
 panel_padding = 0 0 0
@@ -1193,7 +1193,7 @@ clock_background_id = 74
 clock_tooltip = 
 clock_tooltip_timezone = 
 clock_lclick_command = 
-clock_rclick_command = orage
+clock_rclick_command = notify-send date+%d-%m-%y
 clock_mclick_command = 
 clock_uwheel_command = 
 clock_dwheel_command = 
@@ -1205,7 +1205,7 @@ battery_low_status = 10
 battery_low_cmd = notify-send "battery low"
 battery_full_cmd = 
 battery_font_color = #ccd2df 100
-bat1_format =   %p
+bat1_format = 🔋 %p
 bat2_format = 
 battery_padding = 10 7
 battery_background_id = 6
@@ -1313,7 +1313,7 @@ execp_icon_h = 0
 
 # Executor 4
 execp = new
-execp_command = echo 🔊 $(awk -F"[][]" '/Left:/ { print $2 }' <(amixer sget Master))
+execp_command = echo 🔊 $(awk -F"[][]" '/Left:/ { print $2 }' <(amixer sget Master)) 
 execp_interval = 1
 execp_has_icon = 0
 execp_cache_icon = 1
@@ -1327,6 +1327,65 @@ execp_dwheel_command =
 execp_font = Alata 10
 execp_font_color = #caced6 100
 execp_padding = 10 0
+execp_background_id = 74
+execp_centered = 0
+execp_icon_w = 0
+execp_icon_h = 0
+
+# Executor 5
+execp = new
+execp_command = echo 💻: $(mpstat | awk 'NR == 4 {print $4}') %
+execp_interval = 1 
+execp_has_icon = 0
+execp_cache_icon = 1
+execp_continuous = 0
+execp_markup = 1
+execp_lclick_command = 
+execp_rclick_command = 
+execp_mclick_command =
+execp_dwheel_command =
+execp_font = Alata 10
+execp_font_color = #caced6 100
+execp_background_id = 74
+execp_centered = 0
+execp_icon_w = 0
+execp_icon_h = 0
+
+
+# Executor 6
+execp = new  
+execp_command = echo 📼
+execp_interval = 1
+execp_has_icon = 0
+execp_cache_icon = 1
+execp_continuous = 0
+execp_markup = 1
+execp_lclick_command =
+execp_rclick_command = `
+execp_mclick_command =
+execp_dwheel_command =
+execp_font = Alata 10
+execp_font_color = #caced6 100
+execp_background_id = 74 
+execp_centered = 0
+execp_icon_w = 0
+execp_icon_h = 0
+
+
+# Executor 7
+execp = new 
+execp_command = echo 🌡️: $(sensors | sed -rn 's/.*Core 0:\s+.([0-9.]+).*/\1/p')
+execp_interval = 1
+execp_has_icon = 0
+execp_cache_icon = 1
+execp_continuous = 0
+execp_markup = 1
+execp_lclick_command =
+execp_rclick_command =
+execp_mclick_command =
+execp_dwheel_command =
+execp_font = Alata 10
+execp_font_color = #caced6 100
 execp_background_id = 74
 execp_centered = 0
 execp_icon_w = 0
