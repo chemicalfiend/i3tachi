@@ -7,6 +7,10 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'preservim/nerdtree'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-fugitive'
+Plugin 'godlygeek/tabular'
+Plugin 'JuliaEditorSupport/julia-vim'
+Plugin 'preservim/vim-markdown'
+
 
 call vundle#end()
 filetype plugin indent on
@@ -26,9 +30,9 @@ set incsearch
 set wrap
 set formatoptions=tcqrn1
 
-set smartindent
+"set smartindent
 set expandtab
-set autoindent
+"set autoindent
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
