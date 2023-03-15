@@ -1248,7 +1248,7 @@ separator_padding = 1 0
 # Executor 1
 
 execp = new
-execp_command = iwgetid | cut -d \" -f2
+execp_command = nmcli dev | awk 'NR == 2 {print $4}'
 execp_interval = 1
 execp_has_icon = 0
 execp_cache_icon = 1
@@ -1270,6 +1270,28 @@ execp_icon_h = 0
 # Executor 2
 
 execp = new
+execp_command =  echo 🐧 $(uname -r)
+execp_interval = 1
+execp_has_icon = 0
+execp_cache_icon = 1
+execp_continuous = 0
+execp_markup = 1
+execp_lclick_command = 
+execp_rclick_command = 
+execp_mclick_command = 
+execp_uwheel_command = 
+execp_dwheel_command = 
+execp_font = Alata 10
+execp_font_color = #caced6 100
+execp_padding = 10 0 
+execp_background_id = 74 
+execp_centered = 0
+execp_icon_w = 0
+execp_icon_h = 0
+
+# Executor 3
+
+execp = new
 execp_command =  echo $(df -h | awk 'NR==4 {print $4}')
 execp_interval = 1
 execp_has_icon = 0
@@ -1289,7 +1311,7 @@ execp_centered = 0
 execp_icon_w = 0
 execp_icon_h = 0
 
-# Executor 3
+# Executor 4
 
 execp = new
 execp_command = echo RAM: $(free -g | awk 'NR == 2 {print $7}')
@@ -1311,7 +1333,7 @@ execp_centered = 0
 execp_icon_w = 0
 execp_icon_h = 0
 
-# Executor 4
+# Executor 5
 execp = new
 execp_command = echo 🔊 $(awk -F"[][]" '/Left:/ { print $2 }' <(amixer sget Master)) 
 execp_interval = 1
@@ -1332,7 +1354,7 @@ execp_centered = 0
 execp_icon_w = 0
 execp_icon_h = 0
 
-# Executor 5
+# Executor 6
 execp = new
 execp_command = echo 💻: $(mpstat | awk 'NR == 4 {print $4}') %
 execp_interval = 1 
@@ -1350,27 +1372,6 @@ execp_background_id = 74
 execp_centered = 0
 execp_icon_w = 0
 execp_icon_h = 0
-
-
-# Executor 6
-execp = new  
-execp_command = echo 📼
-execp_interval = 1
-execp_has_icon = 0
-execp_cache_icon = 1
-execp_continuous = 0
-execp_markup = 1
-execp_lclick_command =
-execp_rclick_command = `
-execp_mclick_command =
-execp_dwheel_command =
-execp_font = Alata 10
-execp_font_color = #caced6 100
-execp_background_id = 74 
-execp_centered = 0
-execp_icon_w = 0
-execp_icon_h = 0
-
 
 # Executor 7
 execp = new 
