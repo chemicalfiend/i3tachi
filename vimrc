@@ -7,9 +7,9 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'preservim/nerdtree'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-fugitive'
-Plugin 'godlygeek/tabular'
+"Plugin 'godlygeek/tabular'
 Plugin 'JuliaEditorSupport/julia-vim'
-Plugin 'preservim/vim-markdown'
+"Plugin 'preservim/vim-markdown'
 
 
 call vundle#end()
@@ -41,3 +41,7 @@ autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 
 
 
+"clipboard stuff
+set clipboard+=unnamedplus
+vmap  :!xclip -f -sel clip<CR>
+map <F7> mz:-1r !xclip -o -sel clip<CR>`z

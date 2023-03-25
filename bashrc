@@ -27,6 +27,10 @@ alias jn='jupyter-notebook'
 alias planckton='conda activate planckton'
 alias morphct='conda activate morphct'
 
+alias vpn='bash ~/.scripts/vpn.sh'
+alias uvpn='warp-cli disconnect'
+alias svpn='warp-cli status'
+
 export PATH=$PATH:~/.local/kitty.app/bin
 export PATH=$PATH:~/.packages/packmol/
 export PATH='/home/pranay/.local/bin':"$PATH"
