@@ -18,7 +18,7 @@ filetype plugin indent on
 syntax enable
 
 set background=dark
-colorscheme badwolf
+colorscheme fiendscheme
 
 set encoding=utf-8
 

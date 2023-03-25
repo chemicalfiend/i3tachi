@@ -1,21 +1,21 @@
 set background=dark
 hi clear
 if exists("syntax_on")
-      syntax reset
+  syntax reset
 endif
 
-let g:colors_name = "vader"
+let g:colors_name = "fiendscheme"
 
 hi Normal                           ctermfg=252
 hi Comment             cterm=italic ctermfg=244
 hi String                           ctermfg=076
-hi Number                           ctermfg=196
+hi Number                           ctermfg=125
 hi Constant                         ctermfg=208
 hi Special                          ctermfg=191
 hi Identifier            cterm=none ctermfg=011
-hi Statement             cterm=bold ctermfg=214
-hi PreProc                          ctermfg=135
-hi Type                  cterm=bold ctermfg=011
+hi Statement             cterm=bold ctermfg=196
+hi PreProc                          ctermfg=119
+hi Type                  cterm=bold ctermfg=215
 hi Function                         ctermfg=039
 hi Operator                         ctermfg=026
 hi Ignore                           ctermfg=008
@@ -60,9 +60,6 @@ hi link makeTarget       Statement
 hi link makeIdent        Type
 hi link makeCommands     String
 
-" Matlab-specific
-hi link matlabCellComment Comment
-
 " Tex-specific
 hi link texSection       Statement
 hi link texStatement     Type
@@ -92,3 +89,4 @@ hi link VimOption        Identifier
 hi LineNr                ctermfg=238
 hi ColorColumn                       ctermbg=235
 hi SpecialKey            ctermfg=237
+
