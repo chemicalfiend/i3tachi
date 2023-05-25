@@ -33,6 +33,7 @@ exec --no-startup-id exec picom
 exec --no-startup-id exec feh --bg-fill ~/.config/wallpaper.jpg
 exec --no-startup-id exec xinput set-prop 12 343 0.3
 exec --no-startup-id exec xinput set-prop 12 323 1
+exec --no-startup-id exec blueman-applet
 #exec --no-startup-id exec setxkbmap -option caps:escape
 
 
