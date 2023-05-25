@@ -3,7 +3,7 @@
 cp bashrc ~/.bashrc
 cp i3-config ~/.config/i3/config
 cp kitty.conf ~/.config/kitty/kitty.conf
-cp i3status/i3status.conf ~/.config/i3status/i3status.conf
+cp i3status.conf ~/.config/i3status/config
 #cp tint2/amarena ~/.config/tint2/
 #cp tint2/tint2rc ~/.config/tint2/tint2rc
 cp vimrc ~/.vimrc
