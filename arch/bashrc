@@ -26,8 +26,9 @@ alias fry='ssh pranayvenkatesh@fry.boisestate.edu'
 alias jn='jupyter-notebook'
 alias planckton='conda activate planckton'
 alias morphct='conda activate morphct'
-alias ssh="kitty +kitten ssh"
+#alias ssh="kitty +kitten ssh"
 
+alias julia='julia-latest'
 
 alias vpn='bash ~/.scripts/vpn.sh'
 alias uvpn='warp-cli disconnect'

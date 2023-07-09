@@ -9,6 +9,7 @@ Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-fugitive'
 "Plugin 'godlygeek/tabular'
 Plugin 'JuliaEditorSupport/julia-vim'
+Plugin 'lervag/vimtex'
 "Plugin 'preservim/vim-markdown'
 
 
@@ -43,5 +44,11 @@ autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 
 "clipboard stuff
 set clipboard+=unnamedplus
-vmap  :!xclip -f -sel clip<CR>
+vmap <F6> :!xclip -f -sel clip<CR>
 map <F7> mz:-1r !xclip -o -sel clip<CR>`z
+
+
+"latex stuff
+
+
+

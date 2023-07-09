@@ -8,5 +8,5 @@ cp i3status.conf ~/.config/i3status/config
 #cp tint2/tint2rc ~/.config/tint2/tint2rc
 cp vimrc ~/.vimrc
 cp vim/colors/badwolf.vim ~/.vim/colors/
-cp scripts/start-vba.sh ~/.scripts/start-vba.sh
-cp scripts/start-zulip.sh ~/.scripts/start-zulip.sh
+cp ../scripts/start-vba.sh ~/.scripts/start-vba.sh
+cp ../scripts/start-zulip.sh ~/.scripts/start-zulip.sh

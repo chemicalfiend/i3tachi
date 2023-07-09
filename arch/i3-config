@@ -52,6 +52,7 @@ bindsym $mod+f exec firefox
 bindsym $mod+t exec pcmanfm
 bindsym $mod+c exec Discord
 bindsym $mod+x exec slack
+bindsym $mod+semicolon exec steam
 bindsym $mod+z exec sh ~/.scripts/start-zulip.sh
 bindsym $mod+v exec sh ~/.scripts/start-vba.sh
 
@@ -119,10 +120,10 @@ bindsym $mod+Tab exec i3-switch-tabs right
 
 
 # change focus
-bindsym $mod+j focus left
-bindsym $mod+k focus right
-bindsym $mod+l focus up
-bindsym $mod+semicolon focus down
+#bindsym $mod+j focus left
+#bindsym $mod+k focus right
+#bindsym $mod+l focus up
+#bindsym $mod+semicolon focus down
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Left focus left
