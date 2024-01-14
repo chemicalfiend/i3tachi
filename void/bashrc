@@ -27,7 +27,7 @@ alias jn='jupyter-notebook'
 alias planckton='conda activate planckton'
 alias morphct='conda activate morphct'
 alias ssh="kitty +kitten ssh"
-
+alias zotero="./start-zotero.sh"
 
 export PATH=$PATH:~/.local/kitty.app/bin
 export PATH=$PATH:~/.packages/packmol/
@@ -64,20 +64,39 @@ export DRI_PRIME=1
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/pranay/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('/home/pranay/miniconda3/envs/esp/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/home/pranay/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/pranay/miniconda3/etc/profile.d/conda.sh"
+    if [ -f "/home/pranay/miniconda3/envs/esp/etc/profile.d/conda.sh" ]; then
+        . "/home/pranay/miniconda3/envs/esp/etc/profile.d/conda.sh"
     else
-        export PATH="/home/pranay/miniconda3/bin:$PATH"
+        export PATH="/home/pranay/miniconda3/envs/esp/bin:$PATH"
     fi
 fi
 unset __conda_setup
+
+if [ -f "/home/pranay/miniconda3/envs/esp/etc/profile.d/mamba.sh" ]; then
+    . "/home/pranay/miniconda3/envs/esp/etc/profile.d/mamba.sh"
+fi
 # <<< conda initialize <<<
 
 #. $HOME/psi4conda/etc/profile.d/conda.sh
 #conda activate
 #. "$HOME/.cargo/env"
 setxkbmap -option caps:escape
+
+# >>> juliaup initialize >>>
+
+# !! Contents within this block are managed by juliaup !!
+
+case ":$PATH:" in
+    *:/home/pranay/.juliaup/bin:*)
+        ;;
+
+    *)
+        export PATH=/home/pranay/.juliaup/bin${PATH:+:${PATH}}
+        ;;
+esac
+
+# <<< juliaup initialize <<<

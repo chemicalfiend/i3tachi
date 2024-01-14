@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" scriptlets="moz-extension://d634459b-4c29-4e42-9263-f00aa831e752/data/content_script/page_context/vendor/scriptlets.js"><script xmlns="" type="text/javascript"/>
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UC1LpsuAUaKoMzzJSEt5WImw"/>
+ <id>yt:channel:1LpsuAUaKoMzzJSEt5WImw</id>
+ <yt:channelId>1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+ <title>Asianometry</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw"/>
+ <author>
+  <name>Asianometry</name>
+  <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+ </author>
+ <published>2017-05-06T03:34:33+00:00</published>
+ <entry>
+  <id>yt:video:X1HYzZQu8NA</id>
+  <yt:videoId>X1HYzZQu8NA</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>What Breaking the Beer Pub Monopolies Did for Britain</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=X1HYzZQu8NA"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2024-01-11T23:00:17+00:00</published>
+  <updated>2024-01-11T23:00:17+00:00</updated>
+  <media:group>
+   <media:title>What Breaking the Beer Pub Monopolies Did for Britain</media:title>
+   <media:content url="https://www.youtube.com/v/X1HYzZQu8NA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/X1HYzZQu8NA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="3011" average="5.00" min="1" max="5"/>
+    <media:statistics views="72669"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1fOA85xtYxs</id>
+  <yt:videoId>1fOA85xtYxs</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>How an ASML Lithography Machine Moves a Wafer</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1fOA85xtYxs"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2024-01-07T23:00:00+00:00</published>
+  <updated>2024-01-08T13:42:01+00:00</updated>
+  <media:group>
+   <media:title>How an ASML Lithography Machine Moves a Wafer</media:title>
+   <media:content url="https://www.youtube.com/v/1fOA85xtYxs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1fOA85xtYxs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="6015" average="5.00" min="1" max="5"/>
+    <media:statistics views="182154"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Ffh3DRFzRL0</id>
+  <yt:videoId>Ffh3DRFzRL0</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>A Chronicle of the Unix Wars</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Ffh3DRFzRL0"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2024-01-04T23:00:16+00:00</published>
+  <updated>2024-01-04T23:00:16+00:00</updated>
+  <media:group>
+   <media:title>A Chronicle of the Unix Wars</media:title>
+   <media:content url="https://www.youtube.com/v/Ffh3DRFzRL0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Ffh3DRFzRL0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Notes: 
+- Per in the last video, I want to thank viewer Lance for pointing out that NeXTSTEP derives from Mach, the CMU variant of BSD. 
+
+Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="6353" average="5.00" min="1" max="5"/>
+    <media:statistics views="115694"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HADp3emVABg</id>
+  <yt:videoId>HADp3emVABg</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>The Rise of Unix. The Seeds of its Fall.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HADp3emVABg"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2024-01-01T23:00:12+00:00</published>
+  <updated>2024-01-07T14:21:39+00:00</updated>
+  <media:group>
+   <media:title>The Rise of Unix. The Seeds of its Fall.</media:title>
+   <media:content url="https://www.youtube.com/v/HADp3emVABg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HADp3emVABg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Notes: 
+- I want to thank viewer Lance for pointing out that NeXTSTEP derives from Mach, the CMU variant of BSD. I will mention this in the forthcoming Unix Wars video too, so please forgive me there. 
+- I have made an error with regards to Berkeley EECS. Soda Hall is only the CS building. The EE building is Cory. I done goofed. I apologize. 
+
+Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="10356" average="5.00" min="1" max="5"/>
+    <media:statistics views="243751"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:M-F0PJ27hMw</id>
+  <yt:videoId>M-F0PJ27hMw</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>Looking back at 2023 | Asianometry</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=M-F0PJ27hMw"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2023-12-27T23:33:08+00:00</published>
+  <updated>2024-01-03T08:14:15+00:00</updated>
+  <media:group>
+   <media:title>Looking back at 2023 | Asianometry</media:title>
+   <media:content url="https://www.youtube.com/v/M-F0PJ27hMw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/M-F0PJ27hMw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="3019" average="5.00" min="1" max="5"/>
+    <media:statistics views="32435"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vIYG2mTRPSI</id>
+  <yt:videoId>vIYG2mTRPSI</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>How Japan’s Oriental Land Got a Disneyland</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vIYG2mTRPSI"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2023-12-24T23:00:27+00:00</published>
+  <updated>2024-01-01T00:53:03+00:00</updated>
+  <media:group>
+   <media:title>How Japan’s Oriental Land Got a Disneyland</media:title>
+   <media:content url="https://www.youtube.com/v/vIYG2mTRPSI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vIYG2mTRPSI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="1833" average="5.00" min="1" max="5"/>
+    <media:statistics views="41267"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FegeRT5N3A4</id>
+  <yt:videoId>FegeRT5N3A4</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>Why Brain-like Computers Are Hard</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FegeRT5N3A4"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2023-12-21T23:00:16+00:00</published>
+  <updated>2024-01-01T00:48:09+00:00</updated>
+  <media:group>
+   <media:title>Why Brain-like Computers Are Hard</media:title>
+   <media:content url="https://www.youtube.com/v/FegeRT5N3A4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FegeRT5N3A4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="6607" average="5.00" min="1" max="5"/>
+    <media:statistics views="138936"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uPualBNf1nM</id>
+  <yt:videoId>uPualBNf1nM</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>How Semiconductor DRAM Went 3D</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uPualBNf1nM"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2023-12-17T23:00:26+00:00</published>
+  <updated>2024-01-10T00:12:32+00:00</updated>
+  <media:group>
+   <media:title>How Semiconductor DRAM Went 3D</media:title>
+   <media:content url="https://www.youtube.com/v/uPualBNf1nM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uPualBNf1nM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Note: I should clarify that the first Intel 1103 was not a Dennard 1-transistor design. It had 3 transistors, and eventually hit the 1-transistor Dennard design in the 16-kilobit generation. 
+
+A second clarification: Hat tip to Jonathan M., who pointed out to me that DRAM soft errors are now found to be the result of radioactive elements in the packaging, not cosmic rays. Cosmic rays seem cooler though imo, https://ieeexplore.ieee.org/document/4208205
+
+Bonus points if you can tell me how the semi-industry learned tantalum deposition. 
+
+Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="3792" average="5.00" min="1" max="5"/>
+    <media:statistics views="82090"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tnOIKAEDv9I</id>
+  <yt:videoId>tnOIKAEDv9I</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>How Kweichow Moutai Became China’s Top Liquor</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tnOIKAEDv9I"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2023-12-14T23:00:36+00:00</published>
+  <updated>2024-01-01T00:46:49+00:00</updated>
+  <media:group>
+   <media:title>How Kweichow Moutai Became China’s Top Liquor</media:title>
+   <media:content url="https://www.youtube.com/v/tnOIKAEDv9I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tnOIKAEDv9I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="4483" average="5.00" min="1" max="5"/>
+    <media:statistics views="160859"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TbWfywgY7sk</id>
+  <yt:videoId>TbWfywgY7sk</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>AMD: The Incredible Adventure Continues</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TbWfywgY7sk"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2023-12-10T23:00:14+00:00</published>
+  <updated>2023-12-27T19:58:27+00:00</updated>
+  <media:group>
+   <media:title>AMD: The Incredible Adventure Continues</media:title>
+   <media:content url="https://www.youtube.com/v/TbWfywgY7sk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TbWfywgY7sk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="3511" average="5.00" min="1" max="5"/>
+    <media:statistics views="74496"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:B2-VrrWUXYQ</id>
+  <yt:videoId>B2-VrrWUXYQ</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>Weight Loss Drugs Before Ozempic</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=B2-VrrWUXYQ"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2023-12-07T23:00:13+00:00</published>
+  <updated>2024-01-06T05:26:28+00:00</updated>
+  <media:group>
+   <media:title>Weight Loss Drugs Before Ozempic</media:title>
+   <media:content url="https://www.youtube.com/v/B2-VrrWUXYQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/B2-VrrWUXYQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="2998" average="5.00" min="1" max="5"/>
+    <media:statistics views="79841"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HR2PUCAukbQ</id>
+  <yt:videoId>HR2PUCAukbQ</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>What If Someone Steals GPT-4?</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HR2PUCAukbQ"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2023-12-03T23:09:06+00:00</published>
+  <updated>2024-01-01T00:45:29+00:00</updated>
+  <media:group>
+   <media:title>What If Someone Steals GPT-4?</media:title>
+   <media:content url="https://www.youtube.com/v/HR2PUCAukbQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HR2PUCAukbQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="3838" average="5.00" min="1" max="5"/>
+    <media:statistics views="80901"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MKNWG8lEMlc</id>
+  <yt:videoId>MKNWG8lEMlc</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>How the Soviets Won Chess</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MKNWG8lEMlc"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2023-11-30T23:00:24+00:00</published>
+  <updated>2023-12-28T18:05:12+00:00</updated>
+  <media:group>
+   <media:title>How the Soviets Won Chess</media:title>
+   <media:content url="https://www.youtube.com/v/MKNWG8lEMlc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MKNWG8lEMlc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="6608" average="5.00" min="1" max="5"/>
+    <media:statistics views="216622"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZjxZ2Eh9GrA</id>
+  <yt:videoId>ZjxZ2Eh9GrA</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>How Toyota Turned Around GM’s Worst Factory</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZjxZ2Eh9GrA"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2023-11-26T23:00:30+00:00</published>
+  <updated>2023-12-27T07:29:54+00:00</updated>
+  <media:group>
+   <media:title>How Toyota Turned Around GM’s Worst Factory</media:title>
+   <media:content url="https://www.youtube.com/v/ZjxZ2Eh9GrA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZjxZ2Eh9GrA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="7633" average="5.00" min="1" max="5"/>
+    <media:statistics views="257966"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IVixG9srnKc</id>
+  <yt:videoId>IVixG9srnKc</yt:videoId>
+  <yt:channelId>UC1LpsuAUaKoMzzJSEt5WImw</yt:channelId>
+  <title>China &amp; The 2022 CT Scan Shortage</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IVixG9srnKc"/>
+  <author>
+   <name>Asianometry</name>
+   <uri>https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw</uri>
+  </author>
+  <published>2023-11-23T23:00:11+00:00</published>
+  <updated>2024-01-01T00:44:13+00:00</updated>
+  <media:group>
+   <media:title>China &amp; The 2022 CT Scan Shortage</media:title>
+   <media:content url="https://www.youtube.com/v/IVixG9srnKc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IVixG9srnKc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hat tip to friend of the channel Dr. M. Kanuparthy for suggesting this topic and also spending time explaining it to me over a call. 
+
+Links:
+- The Asianometry Newsletter: https://www.asianometry.com
+- Patreon: https://www.patreon.com/Asianometry
+- Threads: https://www.threads.net/@asianometry
+- Twitter: https://twitter.com/asianometry</media:description>
+   <media:community>
+    <media:starRating count="2426" average="5.00" min="1" max="5"/>
+    <media:statistics views="53103"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" scriptlets="moz-extension://d634459b-4c29-4e42-9263-f00aa831e752/data/content_script/page_context/vendor/scriptlets.js"><script xmlns="" type="text/javascript"/>
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ"/>
+ <id>yt:channel:26YLK0OEbLB3TCYxGh8xVQ</id>
+ <yt:channelId>26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+ <title>Huygens Optics</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ"/>
+ <author>
+  <name>Huygens Optics</name>
+  <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+ </author>
+ <published>2011-03-01T07:36:19+00:00</published>
+ <entry>
+  <id>yt:video:V6G8ZZmeJzc</id>
+  <yt:videoId>V6G8ZZmeJzc</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Incoherent Wave Emitter</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=V6G8ZZmeJzc"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2024-01-10T10:48:07+00:00</published>
+  <updated>2024-01-11T06:37:57+00:00</updated>
+  <media:group>
+   <media:title>Incoherent Wave Emitter</media:title>
+   <media:content url="https://www.youtube.com/v/V6G8ZZmeJzc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/V6G8ZZmeJzc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This simulation shows a spatially- and temporally incoherent wave emitter that consists of around 100 individual wave sources. The sources are continuous but all have a slightly different emission wavelength. This results is the emission field and intensity distributions shown in the video.
+The simulation was made using a python script supplied by @DiffractionLimited 
+ 
+
+ #physics #light #short</media:description>
+   <media:community>
+    <media:starRating count="718" average="5.00" min="1" max="5"/>
+    <media:statistics views="8589"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Lb2w4g4Dko8</id>
+  <yt:videoId>Lb2w4g4Dko8</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Directional coherent wave source</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Lb2w4g4Dko8"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2024-01-09T16:33:05+00:00</published>
+  <updated>2024-01-10T08:08:28+00:00</updated>
+  <media:group>
+   <media:title>Directional coherent wave source</media:title>
+   <media:content url="https://www.youtube.com/v/Lb2w4g4Dko8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Lb2w4g4Dko8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This short shows a directional wave source that is made by spacing omnidirectional wave emitters in a very specific configuration. The animations were created using the wave simulation code made by @DiffractionLimited
+
+As for the question at the end of the video about being able to spot how destructive interference comes about: this is basically impossible to see in the animation. So the answer to the question is NO. 
+However, there are few ways that you can look at how the phenomenon comes about:
+1) When moving away in the horizontal direction of a row of emitters, for every point there is an equal amount of emitters that has a particular phase, compared to the emitters that have a phase 180 degrees shifted. So, when adding up these 2 contributions for all the emitters together in a row, this results in a wave amplitude that is almost zero in this direction.
+2) An alternative way to look at this is the following: because of the spatial separation of exactly 1 lambda in the vertical direction, a standing wave arises in the array that has almost equal field strength in the horizontal direction within the array. And because the sources are moving in phase with the standing wave, they cannot transfer energy into the surrounding field in the horizontal direction. This also explains why a low intensity in the horizontal direction exists.
+
+Both views are in my opinion valid, but I think the second one is a bit more intuitive.
+
+#light #physics #optics #short</media:description>
+   <media:community>
+    <media:starRating count="901" average="5.00" min="1" max="5"/>
+    <media:statistics views="11610"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rdlZ8KYVtPU</id>
+  <yt:videoId>rdlZ8KYVtPU</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Imaging at ASML</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rdlZ8KYVtPU"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2023-12-21T10:11:49+00:00</published>
+  <updated>2023-12-22T06:13:56+00:00</updated>
+  <media:group>
+   <media:title>Imaging at ASML</media:title>
+   <media:content url="https://www.youtube.com/v/rdlZ8KYVtPU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rdlZ8KYVtPU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A visit to ASML with a deep dive into diffraction and imaging:
+0:00 Intro
+3:14 How big big are chip patterns nowadays?
+5:00 Arriving at ASML Veldhoven
+5:50 Interview Sander Blok part 1
+7:40 About diffraction and image formation
+9:36 Fraunhofer (far field) interference / diffraction explained
+11:15 Diffraction on photolithography masks
+15:11 About critical dimension
+17:27 Example of computational photolithography  
+19:23 Interview Sander Blok part 2
+21:46 EUV is difficult...
+
+by the way, the frequency of the tin droplets apparently is 50.000 not 15.000 per second.  
+
+Animations were made using a Phyton script for Nvidia cuda, which was supplied to me by https://www.youtube.com/@DiffractionLimited
+The script with instructions to install it can be downloaded from github:
+https://github.com/0x23/WaveSimulator2D
+
+Third party images / video:
+Sleepy guy: https://www.youtube.com/watch?v=bBqLCrIwHbA
+Source mask optimization:
+https://opg.optica.org/directpdfaccess/837c889c-5b88-4dcb-8bfbdda02863dd9a_441841/oe-28-22-33371.pdf
+If you cannot access the article, search for the title in google: " Source mask optimization using the covariance matrix adaptation evolution strategy"
+
+Royalty free music used: 
+Road Trip - Slynk
+Sharp Edges - half.cool
+Floating - Early Birds
+
+All imagery inside the ASML manufacturing facilities is stock video material shown Courtesy of ASML and IBM.
+ASML YouTube Channel: https://www.youtube.com/@ASMLcompany
+Want to work at ASML?: https://www.asml.com/en/careers/find-your-job
+
+Into viewing wave simulations? Nils Berglund has a ton of them: 
+https://www.youtube.com/playlist?list=PLAZp3rbgWLo3VO2rqVKyL1T6DUmnDAaEN
+
+Did I forget anyone? Please let me know and we will work it out.</media:description>
+   <media:community>
+    <media:starRating count="4843" average="5.00" min="1" max="5"/>
+    <media:statistics views="80188"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:v_hnpd2dmt8</id>
+  <yt:videoId>v_hnpd2dmt8</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Ray/Wave Racing Championships 2023 #light #physics</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=v_hnpd2dmt8"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2023-12-04T15:58:42+00:00</published>
+  <updated>2024-01-05T10:47:09+00:00</updated>
+  <media:group>
+   <media:title>Ray/Wave Racing Championships 2023 #light #physics</media:title>
+   <media:content url="https://www.youtube.com/v/v_hnpd2dmt8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/v_hnpd2dmt8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This wave / lens simulation was made using the Python wave simulation script provided by @DiffractionLimited. 
+
+The link to the source code on github can be found in the description of this particular video: 
+https://www.youtube.com/watch?v=N5a06o3ghzU</media:description>
+   <media:community>
+    <media:starRating count="8338" average="5.00" min="1" max="5"/>
+    <media:statistics views="246995"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SS2AbZVdk2A</id>
+  <yt:videoId>SS2AbZVdk2A</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>How a  Lens creates an Image.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SS2AbZVdk2A"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2023-11-24T09:57:12+00:00</published>
+  <updated>2023-11-29T10:36:03+00:00</updated>
+  <media:group>
+   <media:title>How a  Lens creates an Image.</media:title>
+   <media:content url="https://www.youtube.com/v/SS2AbZVdk2A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SS2AbZVdk2A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Contents:
+0:00 Introducing "rays"
+2:14 Light is a wave
+4:00 Nils reached one thousand!
+4:43 Effect of Numerical Aperture
+6:46 About "Critical Dimension"
+7:40 Effect of NA illustrated using a microscope
+10:44 Diffraction in the Double Slit Experiment
+12:30 Diffraction in the Circular Slits (Fresnel Zone Plates)
+14:40 Effect of central obstruction on focus 
+15:05 Using diffraction to create an Image
+18:59 Comparison to the Fourier Series Approximation
+19:44 Image Creation and JPEG compression
+20:59 Effect of wavelength on definition
+21:35 Extroduction
+
+A list of links to subjects mentioned in the video:
+Nils Berglund's Channel:  https://www.youtube.com/c/nilsberglund
+Link to the full "NA" video by Nils: https://www.youtube.com/watch?v=RbojFORps98
+Making Fresnel Zone plates: https://www.youtube.com/watch?v=uf3Y0-6NbjQ
+Building a Maskless Wafer Stepper: https://www.youtube.com/watch?v=_w0Z2Y5vaAQ&amp;t=343s
+
+Some images were taken from JW Middelink Systematische Natuurkunde Deel B.
+This book series is absolutely awesome. They made me enjoy my high school physics classes and that is why I held on to them for 40 years.
+
+The video contains a short audio clip that is inspired on "another one bites the dust" by Queen. I did not use the original drums and bass but, Freddy himself did contribute in his own special way. I consider this fair use but if you are the copyright owner, please contact me in case you consider this a copyright breach. Today on the date of video publication it is 32 years ago exactly that Freddy Mercury died of Aids. 
+
+Apparently, the lady in the compression images is named Lena. If I had known the history behind the image and why it became so famous, I would probably not have used it:
+https://pursuit.unimelb.edu.au/articles/it-s-time-to-retire-lena-from-computer-science
+
+A correction about the name of ASML: currently, this is the actual name of the company, so without any reference to the origin of the abbreviation.  Advanced Semiconductor Materials Lithography was the name of the joint venture of ASM (founded by Arthur del Prado) and Philips Electronics, intended for the development of photolithography machines. 
+
+Did I forget to mention you? Please contact me and I will sort it out.</media:description>
+   <media:community>
+    <media:starRating count="6196" average="5.00" min="1" max="5"/>
+    <media:statistics views="89245"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:n_dUgWDrYPw</id>
+  <yt:videoId>n_dUgWDrYPw</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Optical Interferometry Part 2: Measuring Optics with a Zygo GPI LC</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=n_dUgWDrYPw"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2023-10-02T15:00:19+00:00</published>
+  <updated>2024-01-03T09:16:51+00:00</updated>
+  <media:group>
+   <media:title>Optical Interferometry Part 2: Measuring Optics with a Zygo GPI LC</media:title>
+   <media:content url="https://www.youtube.com/v/n_dUgWDrYPw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/n_dUgWDrYPw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This is the second video on optical interferometry, which is dedicated to measuring the wavefront shapes of a mirror, 2 lens assemblies and 3 microscope objectives.
+
+Contents:
+00:00 Intro
+02:04 Video camera upgrade
+04:23 DFT-fringe software 
+06:57 Transmission Sphere reference calibration
+12:29 Shape of a Zerodur Perkin Elmer wafer stepper mirror  
+14:55 Wavefront deformation of a Canon FD f/1.2 camera lens (1980)
+18:10 Wavefront test of a modern Canon  EF 24-105mm f/4 zoom lens 
+19:19 Microscope objective testing
+22:44 Nikon Plan Fluor 10x / 0.30
+23:17 Leica Fluotar 20x / 0.50
+25:23 Nikon Plan APO 20x  / 0.75
+ 
+Link to Optical Interferometry Part 1: 
+https://www.youtube.com/watch?v=l32_QbcdUiw&amp;t=614s
+
+Link to the video on measuring MTF: 
+https://www.youtube.com/watch?v=1AzQ4y_qwrM
+
+DFTfringe forum page: 
+https://groups.io/g/Interferometry/topics
+
+DFT fringe download: 
+https://github.com/githubdoe/DFTFringe/releases
+
+Dale Eason on YouTube: 
+https://www.youtube.com/@UCPj57WFSSLpVqPir7Im-kiw 
+
+lens config Canon F1.2 By Jake Low - Own work, CC BY-SA 4.0 (modified) https://commons.wikimedia.org/w/index.php?curid=75904563
+Laser diffraction pattern By Wisky - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15113998
+
+Do you need to be referenced but I forgot to do that? Let me know and I will set it straight.</media:description>
+   <media:community>
+    <media:starRating count="2646" average="5.00" min="1" max="5"/>
+    <media:statistics views="43141"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QtMlO09oWSs</id>
+  <yt:videoId>QtMlO09oWSs</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>The double beam experiment</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QtMlO09oWSs"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2023-08-13T16:41:29+00:00</published>
+  <updated>2024-01-05T10:47:09+00:00</updated>
+  <media:group>
+   <media:title>The double beam experiment</media:title>
+   <media:content url="https://www.youtube.com/v/QtMlO09oWSs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QtMlO09oWSs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A bit of optics fun and a little riddle: two coherent light beams of equal intensity and opposite phase meet up. They interfere destructively in the center, thereby creating a continuous plane of zero EM field (and so of zero intensity). The question is: how can the energy in either beam cross and area of zero intensity? Leave a comment if you want to show off your intellect ;-).
+ 
+The experiment in the last 20 seconds of the video shows the cross section of 2 laser beams that meet up and part again. For the experiment I used a single coherent source (HeNe-laser), because that is the only way this experiment could work. It requires a fairly high degree of coherence. Basically it's just a 50% beam splitter and an adjustable mirror under 45 degrees, that create 2 beams of equal intensity, initially spaced 4mm apart, 1mm in diameter and are under an angle of 0.1 degrees with respect to each other. I moved the camera sensor over a distance of 6 meters and recorded 40 images around the area where the beams were crossing paths. 
+
+BTW: officially, I think there is no such thing as the "double beam experiment", I just made that name up...</media:description>
+   <media:community>
+    <media:starRating count="1434" average="5.00" min="1" max="5"/>
+    <media:statistics views="20894"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:l32_QbcdUiw</id>
+  <yt:videoId>l32_QbcdUiw</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Optical Interferometry Part 1: Introduction &amp; ZYGO GPI layout</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=l32_QbcdUiw"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2023-08-04T17:47:29+00:00</published>
+  <updated>2023-12-29T04:40:04+00:00</updated>
+  <media:group>
+   <media:title>Optical Interferometry Part 1: Introduction &amp; ZYGO GPI layout</media:title>
+   <media:content url="https://www.youtube.com/v/l32_QbcdUiw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/l32_QbcdUiw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The video discusses the principles of optical interferometry using glass interfaces and a ZYGO GPI LC interferometer from the 1990s.
+
+0:00 intro
+2:13 What can you do with interferometry?
+3:06 Optical wave fronts explained
+12:41 Inside the ZYGO GPI LC interferometer
+20:45 Example of visual fringe evaluation
+
+The clip featuring a wave at 3:12 min was taken from this FailArmy video:
+https://www.youtube.com/watch?v=r-V_r0UTs0g 
+For much more fails, visit their channel: https://www.youtube.com/@failarmy</media:description>
+   <media:community>
+    <media:starRating count="5274" average="5.00" min="1" max="5"/>
+    <media:statistics views="107804"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ExhSqq1jysg</id>
+  <yt:videoId>ExhSqq1jysg</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>This is not a wave (Coherence part 3)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ExhSqq1jysg"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2023-05-26T09:28:46+00:00</published>
+  <updated>2024-01-05T07:37:51+00:00</updated>
+  <media:group>
+   <media:title>This is not a wave (Coherence part 3)</media:title>
+   <media:content url="https://www.youtube.com/v/ExhSqq1jysg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ExhSqq1jysg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Trying to find analogies between the wave energy confined in a string and matter interacting with light.
+
+0:00 Intro
+6:38 Experiments with waves in a string
+15:40 Analogies with electron behaving as waves
+22:50 Changing the standing wave mode in a string using phase  manipulation
+26:49 A hypothetical model for demonstrating quantized wave behavior in a string
+32:26 Elastic-Inertial Poetry
+
+For this video I used a a few short clips from the following videos and websites:
+
+Spinning ball (from Mike Shake):
+https://www.youtube.com/watch?v=mNBEyjE72w8
+
+Charged ball (from Plasma Channel)
+https://www.youtube.com/watch?v=nxagMrTVonQ
+
+Refracted wave: (by Ulflund)
+https://commons.wikimedia.org/w/index.php?curid=73784342
+
+If you like the painting then visit the Rene Magritte website:
+https://www.renemagritte.org/the-treachery-of-images.jsp
+
+Wave animation at 32:25 by Nils Berglund: https://www.youtube.com/@NilsBerglund
+
+Did I forget anybody? let me know an I will set it straight.</media:description>
+   <media:community>
+    <media:starRating count="3827" average="5.00" min="1" max="5"/>
+    <media:statistics views="76345"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nba4ztLBEh0</id>
+  <yt:videoId>nba4ztLBEh0</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Light &amp; Coherence Pt 2: Spatial Coherence (and the Double Slit Experiment)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nba4ztLBEh0"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2023-02-27T12:29:32+00:00</published>
+  <updated>2024-01-10T01:57:05+00:00</updated>
+  <media:group>
+   <media:title>Light &amp; Coherence Pt 2: Spatial Coherence (and the Double Slit Experiment)</media:title>
+   <media:content url="https://www.youtube.com/v/nba4ztLBEh0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nba4ztLBEh0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Second video about Light and Coherence. Contents:
+0:00 Intro
+0:38 Real life demo of spatial coherence (Lorentz pond)
+2:14 Numerical wave simulations (Nils Berglund)
+5:05 Area of Coherence explained
+8:07 Calculating the Area of Coherence of the Sun
+9:10 Spatial coherence and the double slit experiment
+10:41 About the use of metaphors in science
+12:45 Double slit demo without &amp; with spatial coherence
+15:43 Spatial coherence of light from far away stars
+18:13 Quantization and semantics
+20:39 Credits 
+
+The video contains simulations made by Nils Berglund: here is the link to the original full video showing you both the wave patterns as well as the energy distribution on an eLog scale: https://www.youtube.com/watch?v=8TBi9eafNII
+Link to Nils' channel:  https://www.youtube.com/@NilsBerglund/videos
+
+The video contains several static images taken from various videos about single electron interference. These were incorporated assuming they fall under "fair use":
+Dr. quantum: https://www.youtube.com/watch?v=Q1YqgPAtzho
+Prof. Dave: https://www.youtube.com/watch?v=uva6gBEpfDY
+Eugene Khutoryansky: https://www.youtube.com/watch?v=iVpXrbZ4bnU
+The Elegant Multiverse: https://www.youtube.com/watch?v=cZ0iYNmII88
+Did I forget anyone? Please let me know and I will set it straight.
+
+Link to the original Hitachi electron double slit experiment video (using an electron biprism): 
+https://www.youtube.com/watch?v=ZJ-0PBRuthc
+
+End music: Floating; The Early Birds. © JJM Vleggaar, 1999</media:description>
+   <media:community>
+    <media:starRating count="2466" average="5.00" min="1" max="5"/>
+    <media:statistics views="36985"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:dtcq5b0R65w</id>
+  <yt:videoId>dtcq5b0R65w</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Light &amp; Coherence 1: Temporal Coherence</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=dtcq5b0R65w"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2023-02-07T11:07:01+00:00</published>
+  <updated>2023-12-28T12:33:15+00:00</updated>
+  <media:group>
+   <media:title>Light &amp; Coherence 1: Temporal Coherence</media:title>
+   <media:content url="https://www.youtube.com/v/dtcq5b0R65w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dtcq5b0R65w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This is the first episode about coherence and how this wave phenomenon can cause waves to behave like localized entities.
+Unfortunately the quantum (or corpuscular) description of light leads to a lot of confusion. The goal of this video is to describe "quantized" behavior of light purely from wave principles. 
+
+Contents:
+0:00 Intro
+1:04 Historical perspective
+2:58 Quantization and the photoelectric effect
+6:42 Light is just waves
+7:24 Coherence explained 
+12:54 Temporal coherence as a sum of EM-fields
+16:47 Coherence length vs. spectral band width
+20:25 experiments on the coherence length of light
+
+Link to the referenced Physics Explained video:
+https://www.youtube.com/watch?v=FRP4AqZR3UU
+
+A sharp viewer noted that there is an error in the formula on the sheet at 27:25 : The product of delta time and delta energy in the Heisenberg uncertainty principle is not equal to (h*4*pi) but h/(4*pi), so a much smaller value. This also makes the value of delta frequency times delta time 1/(4*pi) not 4*pi Unfortunately I did not double check the values. Thanks for pointing this out Steve. 
+
+In this video short clips of other YouTube channels were used for illustration. Because of their short length and purpose, they are to be considered to be "fair use".
+ @TheActionLab 
+  @TechIngredients 
+  @ArvinAsh 
+  @pbsspacetime 
+ https://www.youtube.com/c/veritasium
+  @upandatom 
+  @ProfessorDaveExplains 
+  https://www.youtube.com/user/lookingglassuniverse
+Did I forget anyone? Please let me know and I'll set things straight.
+
+End music: Floating; The Early Birds. © JJM Vleggaar, 1999</media:description>
+   <media:community>
+    <media:starRating count="4986" average="5.00" min="1" max="5"/>
+    <media:statistics views="86006"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1AzQ4y_qwrM</id>
+  <yt:videoId>1AzQ4y_qwrM</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Mirror Lenses Part 2: Testing the Modulation Transfer Function.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1AzQ4y_qwrM"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2022-11-25T09:54:24+00:00</published>
+  <updated>2023-12-27T00:06:59+00:00</updated>
+  <media:group>
+   <media:title>Mirror Lenses Part 2: Testing the Modulation Transfer Function.</media:title>
+   <media:content url="https://www.youtube.com/v/1AzQ4y_qwrM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1AzQ4y_qwrM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This is my second video on camera mirror lenses. In this part, I discuss lens construction and explain a method to measure the MTF (Modulation Transfer Function), using a few simple tools.
+
+Contents:
+00:00 Intro
+01:23 The inside of a Soligor mirror lens
+02:51 Using second surface reflectors
+06:06 problem located
+08:25 Measuring sharpness quantitatively
+09:30 Introducing MTF-mapper
+10:08 MTF explained
+12:30 MTF-mapper software explained
+15:25 Comparing lens resolutions
+18:38 How to make optics sexy (NOT)
+
+Link to part 1: https://youtu.be/x2BiM7BGQMU
+Download URL for MTF-mapper:
+https://sourceforge.net/projects/mtfmapper/
+Many thanks to Frans van den Bergh for building this great software tool. Thanks also to Sergey Kotikov (Сергей Котиков), for pointing out the software to me.
+
+The music video was produced by Dr. Liam Fullersheit, who performed the rap, did the arrangements, mixing, and most of the choreography. Whether our CCO actually succeeded in making optics "sexy" and attractive is still the subject of fierce debate within the Huygens Optics organization.
+The video clip was made as a tribute to 70s and 80s funk and heavily inspired by the music of Rufus and CK. If you are into this kind of music, please check out their Topic Page: https://www.youtube.com/channel/UCV-ePMa7s-AqUtVYysArFug. 
+In case you need to be mention here as a copyright owner, then please contact me.
+
+Because of multiple requests, I posted the Lyrics of the song below. There were a few concerns about the ambiguity of some of the frases. Dr. Liam reassured me that there was no reason to worry, since it is basically just a song of praise about his favorite camera lens.
+
+"It's 2022 and it's high time
+to shine some lights on optics 
+My name is Liam, I'm funk optician
+I scan the room with my laser vision
+You don't need a high power lens to see
+I'll have my MTF on MTV
+
+We'll grind all through the night my dear,
+until every surface is a perfect sphere
+I can feel your fringes when we interfere
+So let's transfer modulation right here
+
+The spread function pointing your direction 
+Is on an optical axis made for satisfaction
+No spectacles needed for you see,
+we're a perfect match, chromatically
+
+And dilation is what will occur,
+when I focus on your aperture
+So if you image me, the way I image you
+there are infinite conjugate things to do
+
+Shine your lights on me
+I can make you see..anything
+I can make you see..anything you want baby
+Oh baby, you're so sharp"</media:description>
+   <media:community>
+    <media:starRating count="6776" average="5.00" min="1" max="5"/>
+    <media:statistics views="74447"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:x2BiM7BGQMU</id>
+  <yt:videoId>x2BiM7BGQMU</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Camera Mirror Lenses Part 1: Visual and Interferometric Testing</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=x2BiM7BGQMU"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2022-10-27T12:01:32+00:00</published>
+  <updated>2024-01-07T03:55:20+00:00</updated>
+  <media:group>
+   <media:title>Camera Mirror Lenses Part 1: Visual and Interferometric Testing</media:title>
+   <media:content url="https://www.youtube.com/v/x2BiM7BGQMU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/x2BiM7BGQMU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this video I will discuss the visual and interferometric tests of camera mirror telephoto lenses. Contents:
+
+0:00 intro
+1:16 Vivitar f=800mm F:8 mirror lens
+4:58 Sigma f=600mm F:8 mirror telephoto
+7:34 Soligor f=500mm F:8 mirror lens
+8:26 Explaining interferometry in auto-collimation
+12:09 Actual interferometry measurement setup
+14:58 About Strehl Ratio
+17:15 Strehl ratio and aberrations of Vivitar 800mm mirror lens
+18:18 Comparison with results of Sigma 600mm mirror lens
+20:17 Extro
+
+EXTERNAL SOURCE LINKS:
+DFTfringe software download:
+https://github.com/githubdoe/DFTFringe/releases
+
+Dale Eason DFTfringe group: https://groups.io/g/Interferometry/topic/test_with_dftfringe/28806172
+
+Other videos on DFTfringe software:
+https://www.youtube.com/watch?v=LU8PQGzEpQs
+https://www.youtube.com/watch?v=TqLjru6oKM4
+https://www.youtube.com/channel/UCPj57WFSSLpVqPir7Im-kiw/videos
+https://youtu.be/WIl6FlUCHQg
+
+User experiences with the Vivitar 800mm mirror telephoto lens:
+https://www.bhphotovideo.com/c/product/885034-REG/Vivitar_v_800mr_800mm_Mirror_Lens_for.html/reviews
+https://www.amazon.com/Vivitar-800mm-Mirror-Lens-V-800MR/dp/B008G7ZPKE#customerreviews 
+
+Syntax-Brillian Bankrupcy and Sakar aquirement:
+https://seekingalpha.com/article/66607-will-syntax-brillian-survive
+https://www.cnet.com/tech/tech-industry/sakar-acquires-vivitar-brand-and-ip/
+https://www.optyczne.pl/1093-nowo%C5%9B%C4%87-Vivitar_na_sprzeda%C5%BC.html
+https://www.sakar.com/
+
+Original Vivitar 800mm Solid Catadioptric:
+https://www.photo.net/forums/topic/509542-vivitar-series-1-600mm-f8-solid-catadioptric-telephoto-lens/
+https://www.dpreview.com/news/3295932675/canon-patents-400mm-f5-6-catadioptric-mirror-lens
+
+Vivitar rebranding: 
+https://mikeeckman.com/2016/12/vivitar-35es-1978/
+
+Star field Foto (by Felix Mittermeier)
+https://www.pexels.com/photo/galaxy-space-957010/ 
+
+Bokeh bird in garden photo (by kenetik): 
+http://forum.mflenses.com/vivitar-series-1-600mm-f8-solid-cat-and-a-bird-in-the-garden-t69033.html
+
+Tommy Cooper photo: https://panorama.nl/artikel/174764/komiek-tommy-cooper-stierf-35-jaar-geleden-in-het-harnas
+
+End music: "Floating" performed by the Early Birds (recorded in Eindhoven in 2000).
+
+Did I forget to mention you above and are you a copyright owner? let me know and I will set it straight by linking to your original content in these credits.</media:description>
+   <media:community>
+    <media:starRating count="7386" average="5.00" min="1" max="5"/>
+    <media:statistics views="191076"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nsxJQr57_is</id>
+  <yt:videoId>nsxJQr57_is</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Not a photon in sight! [#shorts]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nsxJQr57_is"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2022-10-11T15:16:19+00:00</published>
+  <updated>2024-01-05T10:47:09+00:00</updated>
+  <media:group>
+   <media:title>Not a photon in sight! [#shorts]</media:title>
+   <media:content url="https://www.youtube.com/v/nsxJQr57_is?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nsxJQr57_is/hqdefault.jpg" width="480" height="360"/>
+   <media:description>#shorts, my first one (and maybe my last!)
+The video video illustrates how the Electromagnetic field inside a laser beam can locally be made virtually zero creating destructive interference. This is achieved by just placing a pinhole of the right size inside the beam. The size of the pinhole for this experiment is around 25 microns.</media:description>
+   <media:community>
+    <media:starRating count="1682" average="5.00" min="1" max="5"/>
+    <media:statistics views="20263"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gijtzP8iVzs</id>
+  <yt:videoId>gijtzP8iVzs</yt:videoId>
+  <yt:channelId>UC26YLK0OEbLB3TCYxGh8xVQ</yt:channelId>
+  <title>Bathroom Quantum Fields and Vacuum Energy</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gijtzP8iVzs"/>
+  <author>
+   <name>Huygens Optics</name>
+   <uri>https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ</uri>
+  </author>
+  <published>2022-09-21T12:23:00+00:00</published>
+  <updated>2023-12-20T07:12:29+00:00</updated>
+  <media:group>
+   <media:title>Bathroom Quantum Fields and Vacuum Energy</media:title>
+   <media:content url="https://www.youtube.com/v/gijtzP8iVzs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gijtzP8iVzs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Building a bathroom got me all philosophical. Video contents:
+0:00 Intro on Bathroom energy
+1:51 About energy conservation
+3:38 Wave character of particles/matter
+5:06 Concept and value of vacuum energy
+11:08 When theory takes a silly turn
+12:25 About probability in QM
+16:09 What is a measurement?
+19:27 How to get away from vacuum energy
+20:13 Wave behavior in classical systems
+21:23 Conclusion
+
+This video does not contain serious science experiments and is purely based on hearsay and guesswork.
+
+References to external sources of video material (in order of appearance):
+Specialist in action: https://www.youtube.com/watch?v=Jgw4qj9ayec
+Sun effect: https://www.youtube.com/watch?v=l3QQQu7QLoM
+Rail gun kinetic energy: https://www.youtube.com/watch?v=O2QqOvFMG_A
+Bubble rings: https://www.youtube.com/watch?v=pXsHmMMDFnA
+
+Quantum particle simulations by Nils Berglund:
+His YouTube channel: https://www.youtube.com/c/NilsBerglund
+The referenced video: https://www.youtube.com/watch?v=2TGZ2zM4nDk
+
+In the final part of the video, I used some video material previously featured in a video about oil droplets with quantum-like behavior on the Veritasium channel.
+The video in question: https://www.youtube.com/watch?v=WIyTZDHuarQ
+I guess the video content was copied from this video 2012 of MITMathLabs: https://www.youtube.com/watch?v=nmC0ygr08tE  I think they might very well be the original content owner. The main website of this research can be found here: http://dualwalkers.com/
+The original footage filmed by Raquel Nuno
+
+Some of the best videos on theoretical physics can be found on the channel "Physics Explained". These videos give more info on the background of how particles and vacuum energy arise from quantum fields in a mathematical context: 
+https://www.youtube.com/watch?v=8loIYt4QKqQ
+https://www.youtube.com/watch?v=QPAxzr6ihu8
+
+End music: "Floating" performed by the Early Birds (recorded in Eindhoven in 2000). 
+
+Did I forget to mention you above and are you a copyright owner? let me know and I will set it straight by linking to your original content in these credits.</media:description>
+   <media:community>
+    <media:starRating count="5864" average="5.00" min="1" max="5"/>
+    <media:statistics views="105691"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>pv magazine International</title>
+	<atom:link href="https://www.pv-magazine.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.pv-magazine.com</link>
+	<description>Photovoltaic Markets and Technology</description>
+	<lastBuildDate>Fri, 12 Jan 2024 17:00:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">120043466</site>	<item>
+		<title>Weekend Read: Agreeing on green hydrogen</title>
+		<link>https://www.pv-magazine.com/2024/01/13/weekend-read-agreeing-on-green-hydrogen/</link>
+					<comments>https://www.pv-magazine.com/2024/01/13/weekend-read-agreeing-on-green-hydrogen/#respond</comments>
+		
+		<dc:creator><![CDATA[Sergio Matalucci]]></dc:creator>
+		<pubDate>Sat, 13 Jan 2024 05:00:31 +0000</pubDate>
+				<category><![CDATA[Commercial & Industrial PV]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Hydrogen]]></category>
+		<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<category><![CDATA[Utility Scale Storage]]></category>
+		<category><![CDATA[additionality rule]]></category>
+		<category><![CDATA[Aurora Energy Research]]></category>
+		<category><![CDATA[Brittany]]></category>
+		<category><![CDATA[Carbon free]]></category>
+		<category><![CDATA[Carbon intensity]]></category>
+		<category><![CDATA[Electrolysis]]></category>
+		<category><![CDATA[Electrolyzer]]></category>
+		<category><![CDATA[Energie Baden Württemberg]]></category>
+		<category><![CDATA[European Commission]]></category>
+		<category><![CDATA[European Union]]></category>
+		<category><![CDATA[Feed in Tariffs]]></category>
+		<category><![CDATA[FFI]]></category>
+		<category><![CDATA[Fortescue Future Industries]]></category>
+		<category><![CDATA[geographical correlation rule]]></category>
+		<category><![CDATA[green hydrogen]]></category>
+		<category><![CDATA[Green hydrogen and solar]]></category>
+		<category><![CDATA[green steel]]></category>
+		<category><![CDATA[Holmaneset]]></category>
+		<category><![CDATA[hydrogen production]]></category>
+		<category><![CDATA[Lhyfe]]></category>
+		<category><![CDATA[Morbihan]]></category>
+		<category><![CDATA[pay-as-produced solar]]></category>
+		<category><![CDATA[PEM electrolysis]]></category>
+		<category><![CDATA[power purchase agreements]]></category>
+		<category><![CDATA[PPAs]]></category>
+		<category><![CDATA[production curves of solar]]></category>
+		<category><![CDATA[Protium Green Solutions]]></category>
+		<category><![CDATA[proton exchange membrane]]></category>
+		<category><![CDATA[PV assets]]></category>
+		<category><![CDATA[PV farms]]></category>
+		<category><![CDATA[PV projects]]></category>
+		<category><![CDATA[renewable electricity]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewable Energy Directive]]></category>
+		<category><![CDATA[renewable hydrogen]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[RES]]></category>
+		<category><![CDATA[Rostock]]></category>
+		<category><![CDATA[Salzgitter Group]]></category>
+		<category><![CDATA[Statkraft]]></category>
+		<category><![CDATA[Temporal correlation]]></category>
+		<category><![CDATA[Thierbach]]></category>
+		<category><![CDATA[Turpe grid tariff]]></category>
+		<category><![CDATA[VSB Énergies Nouvelles]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=240797</guid>
+
+					<description><![CDATA[In November 2022, Germany’s Energie Baden Württemberg and steelmaker Salzgitter Group signed one of Europe’s first power purchase agreements (PPAs) for hydrogen production. More have followed and with the European Union introducing rules to govern green hydrogen, an industry is planning for its future.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">In November 2022, Germany’s Energie Baden Württemberg and steelmaker Salzgitter Group signed one of Europe’s first power purchase agreements (PPAs) for hydrogen production. More have followed and with the European Union introducing rules to govern green hydrogen, an industry is planning for its future.</span></p><p><a href="https://shop.pv-magazine.com/" target="_blank" rel="noopener"><strong>From pv magazine 12/23-01/24</strong></a></p>
+<p>Green hydrogen and solar will be intricately connected, as is evident in early green hydrogen projects. Most of the first green hydrogen plants could give a second export option to existing renewables projects.</p>
+<p>In September 2023, French green hydrogen company Lhyfe and renewables developer VSB Énergies Nouvelles signed a 16-year electricity supply<br />
+contract. All the electricity from VSB Énergies Nouvelles’ 13.2 MW wind farm in the Morbihan region of Brittany, France, will supply Lhyfe’s new 5 MW hydrogen production site.</p>
+<p>The deal is representative of a trend. In this first phase of the market, a decentralized approach offers the best route to commercial viability. Hydrogen production is co-located with consumption, electricity generation is co-located with electrolysis, and costs are cut. Even so, PPAs can be an ideal instrument for the electricity supply.</p>
+<p>Legislation strengthens the case for co-location. Electrolyzers are exempt from grid charges in Germany but still face tariffs when purchasing from the grid. France’s Turpe grid tariff offers no electrolyzer exemptions.</p>
+<p>Adrien Appéré, head of development at VSB Énergies Nouvelles, told <strong>pv magazine</strong> that the Lhyfe PPA will be followed by more. “A PPA with a hydrogen producer is an opportunity to [enhance the value of] the energy produced by wind or PV farms,” he said.</p>
+<p>Hydrogen will be a driver for renewables in France and further afield, according to analysts.</p>
+<p>“We have seen a couple of PPAs of renewables assets for hydrogen production closed in France but the bigger potential is [elsewhere],” said Thekla von Bülow, co-head of advisory at Aurora Energy Research. “We expect new PPAs for hydrogen production to be closed in Germany in the next months.”</p>
+<p>Four green hydrogen electricity PPAs have been closed in France and seven in Germany, according to von Bülow’s data. The largest were closed in Germany, at hydrogen facilities in Thierbach and Rostock where production has not yet started.</p>
+<p>“PPAs are usually signed well ahead of the operation of the electrolyzer,” said von Bülow. “As per our knowledge, there are currently no hydrogen projects producing green hydrogen utilizing PPA-contracted electricity. The first PPAs are expected to start delivery by the end of 2023.”</p>
+<h2>Winds of change</h2>
+<p>Things are moving fast. In terms of expected operational capacity in 2030, Aurora said Germany leads, with 14.5 GW, followed by the Netherlands<br />
+(11.6 GW), the United Kingdom (8.4 GW), and Spain (5.8 GW). France’s expected electrolyzer capacity is 2 GW.</p>
+<p>“Germany will require quite complex PPAs,” added von Bülow. The high average carbon intensity of German grid power will drive new renewables capacity and changes in electricity trading conditions could fuel hydrogen growth. “Should Germany split up its market zone, the north of Germany will likely achieve a 90% RES [renewable energy source] share, which would allow electrolyzers in the north of Germany to run on grid power.”</p>
+<p>The renewables mix powering green hydrogen could change, too. Wind led hydrogen production PPAs in the fall of 2023 but solar could become more attractive as decades-old deals expire. VSB’s Appéré said the first wind feed-in-tariffs were signed between 2002 and 2005, for 15 years. For solar, contracts were longer.</p>
+<p>“For the PV assets, we have simultaneously signed the first feed-in-tariff for 20 years,” he said. “So, since 2017, the first projects free of tariff are the wind farms. In a few months and years, you will see more and more PV projects assigned for PPAs as they do not, any more, receive feed-in-tariffs.”</p>
+<p>Those PV assets can have a second life through hydrogen PPAs. Industry insiders say switching from wind to a mix of renewables would reduce risk. Hydrogen economics improve with a lower cost of electricity and higher utilization. A mix of renewables enables this. Hydropower from large reservoirs is the closest to a cost-competitive, 24/7 baseload power, renewable energy source, said Simon Kornek, vice president (VP) for south European origination at Norway’s Statkraft.</p>
+<div class="callout "><div class="callout-title"><h2>What is green hydrogen?</h2></div><div class="callout-body"><p>In February 2023, in line with the European Union’s Renewable Energy Directive, the European Commission adopted regulations defining renewable hydrogen rules and clarifying “additionality” criteria for renewable electricity. Green hydrogen producers must ensure the electricity they use is matched by the production of renewable energy. This “additionality” rule mandates the renewable power for green hydrogen production must not come from a renewable asset that started operation more than 36 months before the electrolyzer was operational. Hydrogen plants that begin operation before Jan. 1, 2028 are exempt from this rule, until Jan. 1, 2038. “Temporal correlation:” Until Dec. 31, 2029, hydrogen must be produced in the same calendar month as its renewable energy supply, to be considered green. That will change on Jan. 1, 2030, when hydrogen will have to be produced during the same one-hour period as the renewable energy. Hydrogen producers must ensure that energy suppliers are near their plants. The “geographical correlation” rule relates to bidding zones: regions in which the same electricity price is applied. Exemptions apply, including that if grid-power emission intensity is lower than 64.8 g of CO<sub>2</sub> equivalent per kilowatt-hour, the additionality requirement does not apply. Also, if renewables provide, on average, more than 90% of grid electricity, additionality and temporal correlation rules do not apply.</p></div></div>
+<p>“In Scandinavia, where power markets are already largely carbon-free, hydrogen projects can tap into existing hydropower,” said Kornek.</p>
+<p>Statkraft has signed four PPAs for hydrogen production, none of which are co-located. PPAs include supplying renewable electricity to Fortescue Future Industries’ (FFI's) 300 MW Holmaneset green hydrogen and ammonia project in Norway, a green steel project in Sweden, and a 20 MW green hydrogen plant in Germany.</p>
+<p>Statkraft is owned by the Norwegian state and Kornek argued that the best way forward is to tap into the larger portfolios of market integrators such as utilities. He said creditworthy integrators for PPAs offer project sponsors cheaper finance via non-recourse funding for which only project cashflow is used as security.</p>
+<h2>What's next?</h2>
+<p>There is more to green hydrogen growth than PPAs. Jack Eastwood, director and corporate operations officer at British green hydrogen company Protium Green Solutions, said the market will also depend on pipelines connecting Europe to North Africa. The infrastructure could be ready by the next decade but Eastwood said he expects mass hydrogen production in Africa to start in the 2040s.</p>
+<p>Pipelines can drive hydrogen growth in Africa and Europe. Many unviable European projects could take off as a result.</p>
+<p>“We see companies looking to deploy electrolyzers at their renewables sites to mitigate the loss from [electricity] curtailment,” said Eastwood. “It is, now, difficult because hydrogen consumption is not necessarily close to hydrogen production. Over time it will become more attractive because you’ll be able to inject it in the grid, in the long term, or sell it to hydrogen consumers.”</p>
+<p>The next steps for PPAs divide opinion. Eastwood said the market is very demand driven, meaning hydrogen producers have to adapt to buyer needs, leading to baseload-type PPAs with obligations on generators.</p>
+<p>“Pay-as-produced [-structured PPAs] is an interesting space, because proton exchange membrane (PEM) electrolysis, by its nature, is able to match the production curves of solar and shift that energy supply to later,” added Eastwood. “We will definitely see more pay-as-produced, more large-scale hydrogen, rather than baseload PPAs. It will not need to match demand and supply. I can, for instance, store it.”</p>
+<p>As grid injection and large-scale energy storage become feasible, Eastwood expects hydrogen suppliers will have more flexibility. “Therefore, ability to take power as produced becomes easier over time,” he said.</p>
+<p>Kornek did not necessarily agree. “We see quite some challenges for hydrogen projects to deal with pay-as-produced solar or onshore wind PPAs,” he said. “Projects will either have to oversize the electrolyzer to absorb all the energy or they will have to deal with significant excess volumes that have to be sold back to the market at an unknown, and probably very low price.”</p>
+<p>The Statkraft VP said several business models could coexist. Big, energy-intensive processes will need stable hydrogen supply, meaning reliable power or significant storage. Other projects could require lower utilization rates and produce hydrogen when electricity prices are low.</p>
+<p>Kornek and Eastwood agree storage and transportation will be the major drivers of change, ultimately leading to a commoditized market. Industry insiders expect a flexible market in the next 15 to 20 years.</p>
+<p>In this decade, Eastwood expects the first hydrogen projects to become operational. The first large-scale electrolyzer projects should go live toward the end of the 2020s, he predicted. “Over the 2030s, we’ll start to see these ‘backbones’ developing into hydrogen regions with networks of piping which, in turn, will start to connect to one another,” he said.</p>
+<h2>New landscape</h2>
+<p>There’s more to hydrogen evolution than market mechanisms. The European Union’s latest Renewable Energy Directive split opinion among respondents approached by <strong>pv magazine</strong>. Aurora Energy Research said there was a lot more clarity in the regulation but Kornek argued European Union regulations are holding back investment. He said the first indication of how new rules would impact the sector should emerge over the next 12 to 24 months.</p>
+<p>“The delegated act, as currently written, makes it very complicated to realize the green hydrogen targets in Europe,” said Kornek. “In particular, the strict requirements on additionality, temporality, and geographical correlation will be extremely difficult to comply with and will make green hydrogen more expensive than necessary.”</p>
+<p>New European Union rules on green hydrogen could also affect the viability of different kinds of PPA. Protium’s Eastwood said that an obligation to correlate energy generation and hydrogen production on an hourly basis, which would come into effect in the 2030s, would reduce the value of pay-as-produced PPAs while at the same time, consumption on demand would come at a premium.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/13/weekend-read-agreeing-on-green-hydrogen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">240797</post-id>	</item>
+		<item>
+		<title>Scalable thermochemical energy storage for renewable energy</title>
+		<link>https://www.pv-magazine.com/2024/01/12/scalable-thermochemical-energy-storage-for-renewable-energy/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/scalable-thermochemical-energy-storage-for-renewable-energy/#respond</comments>
+		
+		<dc:creator><![CDATA[Marija Maisch]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 16:50:47 +0000</pubDate>
+				<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[Utility Scale Storage]]></category>
+		<category><![CDATA[Breakthrough Energy Ventures]]></category>
+		<category><![CDATA[California Energy Commission]]></category>
+		<category><![CDATA[industrial heat decarbonization]]></category>
+		<category><![CDATA[RedoxBlox]]></category>
+		<category><![CDATA[renewable energy storage]]></category>
+		<category><![CDATA[thermochemical energy storage]]></category>
+		<category><![CDATA[U.S. Department of Energy]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241413</guid>
+
+					<description><![CDATA[US-based RedoxBlox has developed thermochemical energy storage (TCES) technology to replace natural gas heating for industrial sites, along with the lowest-cost, grid-scale storage.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">US-based RedoxBlox has developed thermochemical energy storage (TCES) technology to replace natural gas heating for industrial sites, along with the lowest-cost, grid-scale storage.</span></p><p>RedoxBlox has developed a high-temperature TCES technology which boasts energy density on par with lithium-ion battery technology, while utilizing inexpensive and abundant raw materials.</p>
+<p>The company’s storage material operates at temperatures up to 1,500 C and can be fully charged in less than four hours. It is billed as non-toxic, non-flammable, and fully recyclable.</p>
+<p>The RedoxBlox storage module features a vessel filled with a proprietary and abundantly available, low-cost metal oxide material. To charge, renewable electricity heats the metal oxide pellets from 1,000 C to 1,500 C, triggering a chemical reaction that releases oxygen and stores heat in the form of chemical energy.</p>
+<p>Later, when stored energy is needed, air is directed through the module and the metal oxide consumes oxygen to reverse the reaction and release heat to the air. Hot air from the RedoxBlox module can then deliver heat to an array of industrial processes or to a gas turbine to generate electricity, thus serving as a drop-in replacement for natural gas.</p>
+<p>With its solution, RedoxBlox aims to enable electrification of industrial heat for the difficult-to-decarbonize sectors including &#8211; cement, steel, food and beverage, refining and chemicals manufacturing. It also seeks to enable more renewable electricity sources such as solar and wind to come onto the electrical grid through ultra-low-cost energy storage.</p>
+<p>Since 2018, when it identified proprietary redox material with record-breaking energy density of 2,500 MJ/m<sup>3</sup>, RedoxBlox has passed numerous milestones both in terms of technology development and funding.</p>
+<p>The company said this week that it has secured $8.9 million from the California Energy Commission (CEC) and $6.7 million from the US Department of Energy (DOE).</p>
+<p>These grants follow the company’s $9.4 million Series A financing led by Khosla Ventures for a total of $25 million to support demonstrations of RedoxBlox’s TCES technology.</p>
+<p>In partnership with the University of California, San Diego (UCSD) and the Electric Power Research Institute (EPRI), the CEC selected RedoxBlox to pioneer long-duration energy storage solutions. Hosted by UCSD, the project will leverage RedoxBlox’s technology to power a turbogenerator, providing up to 24 hours of energy storage capacity.</p>
+<p>Similarly, the DOE’s Industrial Efficiency and Decarbonization Office selected RedoxBlox for a first-of-its-kind, industrial-scale TCES, conducted in partnership with Dow and EPRI. This application will showcase the decarbonization of industrial steam at the Dow West Virginia plant through electrification using long-duration TCES.</p>
+<p>“Our goal is simple: use electrification and thermochemical energy storage to compete as a zero-carbon replacement for natural gas,” said RedoxBlox CTO Joerg Petrasch. “We have proven the science. Our focus now is to scale up to commercially relevant sizes. Funding from the DOE and CEC across two large markets and the partnerships with our customers across multiple industrial sectors are key enablers.”</p>
+<p>In addition to Khosla Ventures, RedoxBlox is backed by top climate technology firms, including Breakthrough Energy Ventures (BEV). BEV led the company’s Seed round and participated in its Series A fundraising round.</p>
+<p>RedoxBlox has operations in the United States and Europe. The company’s main headquarters and R&D facility are in San Diego, California. It also has a large-scale prototype testing facility in Bend, Oregon. Its European subsidiary is based in Dornbirn, Austria.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/scalable-thermochemical-energy-storage-for-renewable-energy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241413</post-id>	</item>
+		<item>
+		<title>Chinese PV Industry Brief: Stationary storage installations hit 21.5 GW in 2023</title>
+		<link>https://www.pv-magazine.com/2024/01/12/chinese-pv-industry-brief-stationary-storage-installations-hit-21-5-gw-in-2023/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/chinese-pv-industry-brief-stationary-storage-installations-hit-21-5-gw-in-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[Vincent Shaw]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 16:45:45 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Modules & Upstream Manufacturing]]></category>
+		<category><![CDATA[Utility Scale Storage]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[battery]]></category>
+		<category><![CDATA[Battery storage]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[PV plant]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241433</guid>
+
+					<description><![CDATA[The Zhongguancun Energy Storage Industry and Technology Alliance (CNESA) says China installed 21.5 GW/46.6 GWh of stationary storage capacity in 2023.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">The Zhongguancun Energy Storage Industry and Technology Alliance (CNESA) says China installed 21.5 GW/46.6 GWh of stationary storage capacity in 2023.</span></p><div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-cfdmq-79elbk h-full">
+<div class="react-scroll-to-bottom--css-cfdmq-1n7m0yu">
+<div class="flex flex-col pb-9 text-sm">
+<div class="w-full text-token-text-primary" data-testid="conversation-turn-341">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion">
+<div class="relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&]:mt-5 overflow-x-auto" data-message-author-role="assistant" data-message-id="fbcb83fc-8161-4134-94b9-cf1c6db2fc1a">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p><strong>CNESA</strong> said in a new report that China added 21.5 GW/46.6 GWh of new energy storage installations in 2023, up 194% year on year. Most of this capacity came from lithium-ion batteries, accounting for approximately 95% of the total. Other emerging technologies included compressed air energy storage, flow redox batteries, sodium-ion batteries, and flywheel energy storage. China's cumulative energy storage capacity reached 34.5 GW/74.5 GWh by the end of 2023, and CNESA expects the nation to install more than 35 GW in 2024, with lithium-ion batteries to account for 95% of the total.</p>
+<p><strong><a href="https://www.pv-magazine.com/2023/06/22/all-solar-cell-efficiencies-at-a-glance-updated/" target="_blank" rel="noopener">Renshine Solar</a> </strong>has switched on a 150 MW perovskite cell production line. The China-based perovskite manufacturer aims to achieve mass-scale production of perovskite panels with a size of 1.2m*0.6m and an efficiency of 20% by mid-2024. It said it will focus on the development of gigawatt-level production lines to further expand its capacity.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><a href="https://www.pv-magazine.com/2021/07/06/chinese-pv-industry-brief-jinko-power-announces-1-5-gw-solar-project-and-gaoce-eyeing-10-gw-of-wafer-production/" target="_blank" rel="noopener"><strong>Gaoce</strong></a> has produced its first wafers at a facility in Yibin, Sichuan province. The factory has a planned wafer-cutting capacity of 50 GW. It will be built in two phases, with the initial 25 GW phase to reach full capacity by June 2024. Gaoce has entered the wafer-cutting market with its self-developed GC-800XP Diamond Wire Crystalline Silicon Slicer, which can handle larger sizes and thinner pieces via its advanced control systems.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/chinese-pv-industry-brief-stationary-storage-installations-hit-21-5-gw-in-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241433</post-id>	</item>
+		<item>
+		<title>Phnix releases residential air-to-water heat pump</title>
+		<link>https://www.pv-magazine.com/2024/01/12/phnix-releases-residential-air-to-water-heat-pump/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/phnix-releases-residential-air-to-water-heat-pump/#respond</comments>
+		
+		<dc:creator><![CDATA[Emiliano Bellini]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 16:45:00 +0000</pubDate>
+				<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Heat Pumps]]></category>
+		<category><![CDATA[Residential PV]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[heat pump]]></category>
+		<category><![CDATA[heat pumps]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[residential PV]]></category>
+		<category><![CDATA[Rooftop PV]]></category>
+		<category><![CDATA[rooftop solar]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar and heating]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241484</guid>
+
+					<description><![CDATA[The Chinese manufacturer said its new propane heat pump has a seasonal coefficient of performance exceeding 5.0.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">The Chinese manufacturer said its new propane heat pump has a seasonal coefficient of performance exceeding 5.0.</span></p><p>Guangzhou-based heat pump manufacturer Phnix has launched a new air-to-water heat pump for residential applications.</p>
+<p>Called R290 Everest Series Air to Water Heat Pump, the new product is based on an optimized compressor, a specially designed finned heat exchanger with flow paths, and a fluid simulation-designed air duct.</p>
+<p>The heat pump uses <a href="https://www.pv-magazine.com/2022/12/28/fraunhofer-ise-to-develop-propane-heat-pumps-for-residential-homes/" target="_blank" rel="noopener">propane</a> (R290) as the refrigerant and has reportedly a seasonal coefficient of performance (SCOP) exceeding 5.0.</p>
+<p>&#8220;The heat pump features an integrated DC inverter drive board that simultaneously controls both the fan and compressor, ensuring high efficiency and simplicity in electronic components,&#8221; the manufacturer said in a statement. &#8220;Additionally, the product comes equipped with rubber shock-absorbing feet for easy installation.&#8221;</p>
+<p>The company also said that the system features a noise level below 40 decibels, thanks to a compressor soundproof cover. &#8220;Incorporating high-density, multilayer composite sound-absorbing cotton on the internal walls of the casing to minimize noise transmission,&#8221; it added, without providing technical details.</p>
+<p>&nbsp;</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/phnix-releases-residential-air-to-water-heat-pump/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241484</post-id>	</item>
+		<item>
+		<title>World Bank moves forward with solar water scheme in Uganda</title>
+		<link>https://www.pv-magazine.com/2024/01/12/world-bank-moves-forward-with-solar-water-scheme-in-uganda/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/world-bank-moves-forward-with-solar-water-scheme-in-uganda/#respond</comments>
+		
+		<dc:creator><![CDATA[Patrick Jowett]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 15:00:13 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Utility Scale PV]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[PV plant]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241400</guid>
+
+					<description><![CDATA[The World Bank  has issued a tender for consultancy services for Uganda’s Electricity Access Scale-up Project (EASP). Backed by World Bank funding, EASP will oversee the deployment of 40 solar energy water supply schemes across the East African country.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">The World Bank  has issued a tender for consultancy services for Uganda’s Electricity Access Scale-up Project (EASP). Backed by World Bank funding, EASP will oversee the deployment of 40 solar energy water supply schemes across the East African country.</span></p><p>Uganda’s Ministry of Water and Environment has launched a <a href="https://www.developmentaid.org/tenders/view/1233397/electricity-access-scale-up-project-easp-consultancy-services-for-construction-supervision-eligibili">tender</a> for consultancy services for the Electricity Access Scale-up Project (EASP).</p>
+<p>The five-year project envisages the construction of 40 solar energy water supply scheme packages across the country, to connect households, refugee and host communities and other dwellings to electricity.</p>
+<p>With funding from the World Bank, the chosen contractor will be responsible for construction supervision, eligibility assessment, a feasibility study and detailed design of the supply, installation and commissioning of the supply packages.</p>
+<p>The Ugandan government launched a <a href="https://www.pv-magazine.com/2023/12/12/uganda-kicks-off-solar-tender-for-40-pv-powered-water-supply-schemes/">tender</a> inviting developers to build the solar energy water supply schemes in November.</p>
+<p>The World Bank provided $638 million of funding to support the Ugandan government’s Electricity Access Scale-up Project (EASP), according to local media reports.</p>
+<p>According to the latest figures from the International Renewable Energy Agency (IRENA), Uganda recorded 94 MW of installed PV capacity at the end of 2022.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/world-bank-moves-forward-with-solar-water-scheme-in-uganda/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241400</post-id>	</item>
+		<item>
+		<title>Fortress Power debuts high-voltage, all-in-one residential battery</title>
+		<link>https://www.pv-magazine.com/2024/01/12/fortress-power-debuts-high-voltage-all-in-one-residential-battery/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/fortress-power-debuts-high-voltage-all-in-one-residential-battery/#respond</comments>
+		
+		<dc:creator><![CDATA[Marija Maisch]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 14:15:56 +0000</pubDate>
+				<category><![CDATA[Distributed Storage]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[A-ES Series hybrid inverter]]></category>
+		<category><![CDATA[all in one residential battery]]></category>
+		<category><![CDATA[Battery storage]]></category>
+		<category><![CDATA[Electric Vehicles]]></category>
+		<category><![CDATA[Fortress Power]]></category>
+		<category><![CDATA[high voltage battery]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[residential battery]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241333</guid>
+
+					<description><![CDATA[Fortress Power's Avalon High Voltage Energy Storage System combines a hybrid inverter, high-voltage battery, and a smart energy panel in an all-in-one, whole-home backup system.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Fortress Power's Avalon High Voltage Energy Storage System combines a hybrid inverter, high-voltage battery, and a smart energy panel in an all-in-one, whole-home backup system.</span></p><p>US-based Fortress Power has announced its entry into the high-voltage energy storage residential market. It marked this milestone with the installation of its first residential Avalon System in late December.</p>
+<p>The Avalon HV ESS system features a smart energy panel, customizable battery stack, and inverter. The system works inside and outside and is scalable up from 14.4 kWh to 176 kWh. It can be DC- or AC-coupled, with 200 A pass-through.</p>
+<p>Operating at 200 V to 300 V at the DC terminal, the Avalon System closely matches PV array voltage, reducing the need for DC to DC conversion which, according to the manufacturer, enhances overall operational efficiency by approximately from 6 to 8%.<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:720,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p>The system includes a 7.6 kW or 11.4 kW inverter. It has four MPPTs with a voltage range of 80 V to 520 V and maximum input current per string of 16 A.</p>
+<p>The Avalon Smart Energy Panel manages large loads in the house to stop the inverter from tripping. It can intelligently manage up to twelve different 120 V circuits, six 240 V circuits, or any combination, providing flexible whole home backup without a dedicated emergency power panel.<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:720,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p>With the integrated smart load panel, pre-installed AC coupling circuit, 200 A pass-through and straightforward EV charger installation, the Avalon System reduces the need for extra components, such as back up panel, AC combiner, separate smart load panel, bypass, and other, the manufacturer says.</p>
+<p>Avalon boast a cycle life of more than 8,000 cycles and comes with a 10-year warranty. The system is based on tier 1 automotive grade lithium iron phosphate (LFP) battery cells.</p>
+<p>Furthermore, for homeowners, Avalon could be turned into a source of revenue through the company's EnergyBroker program by selling energy into wholesale markets or to extra energy.</p>
+<p>&#8220;This helps achieve a shorter payback period while contributing to a more resilient and efficient power grid,&#8221; Fortress Power says.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/fortress-power-debuts-high-voltage-all-in-one-residential-battery/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241333</post-id>	</item>
+		<item>
+		<title>Dark December for northern Europe, sunny in the South</title>
+		<link>https://www.pv-magazine.com/2024/01/12/dark-december-for-northern-europe-sunny-in-the-south/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/dark-december-for-northern-europe-sunny-in-the-south/#respond</comments>
+		
+		<dc:creator><![CDATA[pv magazine]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 14:01:38 +0000</pubDate>
+				<category><![CDATA[Commercial & Industrial PV]]></category>
+		<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Opinion & Analysis]]></category>
+		<category><![CDATA[Residential PV]]></category>
+		<category><![CDATA[Utility Scale PV]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[PV plant]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[residential PV]]></category>
+		<category><![CDATA[Rooftop PV]]></category>
+		<category><![CDATA[rooftop solar]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241453</guid>
+
+					<description><![CDATA[In a new weekly update for <b>pv magazine</b>, Solcast, a DNV company, reports that increased cloud led to solar assets in Northern Germany and the Netherlands receiving only 70% of normal irradiance in December. This cloud activity, however, did not make it below the Alps, and Southern Europe saw reduced rain and significantly less cloud than normal, with some regions experiencing 130% of the normal December irradiance.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">In a new weekly update for <b>pv magazine</b>, Solcast, a DNV company, reports that increased cloud led to solar assets in Northern Germany and the Netherlands receiving only 70% of normal irradiance in December. This cloud activity, however, did not make it below the Alps, and Southern Europe saw reduced rain and significantly less cloud than normal, with some regions experiencing 130% of the normal December irradiance.</span></p><p>A series of intense low pressure systems extending from the Baltics to the UK pulled moisture off of the Atlantic, bringing cloud and resulting in lower irradiance over Northern, Central and Western Europe this December. This increased cloud led to solar assets in Northern Germany and the Netherlands receiving only 70% of normal irradiance, according to data collected by Solcast, a DNV company, via the <a href="https://solcast.com//?utm_source=pvmag&utm_medium=Content&utm_campaign=ghimap" target="_blank" rel="noopener">Solcast API</a>. Due to short winter days, this is off of an extremely low base average.</p>
+<p>This cloud activity did not make it below the Alps, and Southern Europe saw reduced rain and significantly less cloud than normal, with some regions experiencing 130% of the normal December irradiance.</p>
+<p><img data-attachment-id="241456" data-permalink="https://www.pv-magazine.com/2024/01/12/dark-december-for-northern-europe-sunny-in-the-south/deviation_europe_december23/" data-orig-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/Deviation_Europe_December23.png" data-orig-size="4096,2670" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Deviation_Europe_December23" data-image-description="" data-image-caption="&lt;p&gt;Solcast Analysis 2023&lt;/p&gt;
+" data-medium-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/Deviation_Europe_December23-600x391.png" data-large-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/Deviation_Europe_December23-1200x782.png" decoding="async" fetchpriority="high" class="size-medium wp-image-241456 aligncenter" src="https://www.pv-magazine.com/wp-content/uploads/2024/01/Deviation_Europe_December23-600x391.png" alt="" width="600" height="391" srcset="https://www.pv-magazine.com/wp-content/uploads/2024/01/Deviation_Europe_December23-600x391.png 600w, https://www.pv-magazine.com/wp-content/uploads/2024/01/Deviation_Europe_December23-1200x782.png 1200w, https://www.pv-magazine.com/wp-content/uploads/2024/01/Deviation_Europe_December23-768x501.png 768w, https://www.pv-magazine.com/wp-content/uploads/2024/01/Deviation_Europe_December23-1536x1001.png 1536w, https://www.pv-magazine.com/wp-content/uploads/2024/01/Deviation_Europe_December23-2048x1335.png 2048w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>Despite the cold and snowy start to the month, with heavy snowfall bringing both reduced irradiance and snow soiling for solar assets, most of the continent saw a relatively mild month. This pattern is in line with a normal El Nino year, typically seeing milder and wetter weather to the start of winter in Northern Europe, becoming colder and drier as the months continue. Southern Europe also saw warmer than normal temperatures, following the trend of 2023 as the hottest year on record and approaching a 1.5-degree increase from climatological averages.</p>
+<p><img data-attachment-id="241457" data-permalink="https://www.pv-magazine.com/2024/01/12/dark-december-for-northern-europe-sunny-in-the-south/averagedaily_europe_december23/" data-orig-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/AverageDaily_Europe_December23.png" data-orig-size="4096,2647" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="AverageDaily_Europe_December23" data-image-description="" data-image-caption="&lt;p&gt;Solcast Analysis 2023&lt;/p&gt;
+" data-medium-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/AverageDaily_Europe_December23-600x388.png" data-large-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/AverageDaily_Europe_December23-1200x775.png" decoding="async" class="size-medium wp-image-241457 aligncenter" src="https://www.pv-magazine.com/wp-content/uploads/2024/01/AverageDaily_Europe_December23-600x388.png" alt="" width="600" height="388" srcset="https://www.pv-magazine.com/wp-content/uploads/2024/01/AverageDaily_Europe_December23-600x388.png 600w, https://www.pv-magazine.com/wp-content/uploads/2024/01/AverageDaily_Europe_December23-1200x775.png 1200w, https://www.pv-magazine.com/wp-content/uploads/2024/01/AverageDaily_Europe_December23-768x496.png 768w, https://www.pv-magazine.com/wp-content/uploads/2024/01/AverageDaily_Europe_December23-1536x993.png 1536w, https://www.pv-magazine.com/wp-content/uploads/2024/01/AverageDaily_Europe_December23-2048x1324.png 2048w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>While solar production in Northern Europe was suppressed, December saw records for wind power fall due to the strong winds driven by several significant storms. Late in the month Storms Pia and Gerrit disrupted holiday travel plans but also helped both the UK and Germany reach new records for wind generation. This helped Germany keep on track to exceed 50% of power from renewable sources across 2023, despite the reduced contribution from Solar generation in winter.</p>
+<p>The effects of these storms were significant, as you can see from the below daily GHI image from December 21st, cloud associated with Storm Pia blocked irradiance from Scotland to the Pyrenees.</p>
+<figure id="attachment_241458" style="width: 600px" class="wp-caption aligncenter"><img data-attachment-id="241458" data-permalink="https://www.pv-magazine.com/2024/01/12/dark-december-for-northern-europe-sunny-in-the-south/dailyghi_20231221/" data-orig-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/DailyGHI_20231221.png" data-orig-size="4096,2651" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="DailyGHI_20231221" data-image-description="" data-image-caption="&lt;p&gt;Solcast Analysis 2023&lt;/p&gt;
+" data-medium-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/DailyGHI_20231221-600x388.png" data-large-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/DailyGHI_20231221-1200x777.png" decoding="async" class="size-medium wp-image-241458" src="https://www.pv-magazine.com/wp-content/uploads/2024/01/DailyGHI_20231221-600x388.png" alt="" width="600" height="388" srcset="https://www.pv-magazine.com/wp-content/uploads/2024/01/DailyGHI_20231221-600x388.png 600w, https://www.pv-magazine.com/wp-content/uploads/2024/01/DailyGHI_20231221-1200x777.png 1200w, https://www.pv-magazine.com/wp-content/uploads/2024/01/DailyGHI_20231221-768x497.png 768w, https://www.pv-magazine.com/wp-content/uploads/2024/01/DailyGHI_20231221-1536x994.png 1536w, https://www.pv-magazine.com/wp-content/uploads/2024/01/DailyGHI_20231221-2048x1326.png 2048w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption class="wp-caption-text">Solcast Analysis 2023 <p><i>Image: Solcast</i></p>
+</figcaption></figure>
+<p><em><a href="https://solcast.com/?utm_source=pvmag&utm_medium=Content&utm_campaign=ghimap">Solcast</a> produces these figures by tracking clouds and aerosols at 1-2km resolution globally, using satellite data and proprietary <a href="https://solcast.com/irradiance-data-methodology/?utm_source=pvmag&utm_medium=Content&utm_campaign=ghimap">AI/ML algorithms</a>. This data is used to drive irradiance models, enabling Solcast to calculate irradiance at high resolution, with typical bias of less than 2%, and also cloud-tracking forecasts. This information is used by more than 300 companies managing over 150 GW of solar assets throughout the world.</em></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/dark-december-for-northern-europe-sunny-in-the-south/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241453</post-id>	</item>
+		<item>
+		<title>French startup offers new solution for green solar rooftops</title>
+		<link>https://www.pv-magazine.com/2024/01/12/french-startup-offers-new-solution-for-solar-rooftops/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/french-startup-offers-new-solution-for-solar-rooftops/#respond</comments>
+		
+		<dc:creator><![CDATA[Francois Puthod]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 13:30:08 +0000</pubDate>
+				<category><![CDATA[Commercial & Industrial PV]]></category>
+		<category><![CDATA[Modules & Upstream Manufacturing]]></category>
+		<category><![CDATA[Residential PV]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[green roofs]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[residential PV]]></category>
+		<category><![CDATA[Rooftop PV]]></category>
+		<category><![CDATA[rooftop solar]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241375</guid>
+
+					<description><![CDATA[Vegetek has developed a "biosolar" roof solution for new and existing buildings. It combines the benefits of greenery and solar panels.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Vegetek has developed a "biosolar" roof solution for new and existing buildings. It combines the benefits of greenery and solar panels.</span></p><div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-adbee-79elbk h-full">
+<div class="react-scroll-to-bottom--css-adbee-1n7m0yu">
+<div class="flex flex-col pb-9 text-sm">
+<div class="w-full text-token-text-primary" data-testid="conversation-turn-335">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion">
+<div class="relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&]:mt-5 overflow-x-auto" data-message-author-role="assistant" data-message-id="f4a54b2a-b283-4cfc-aaaa-9ea70f5011e4">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Vegetek, a French urban greening solutions designer, has developed &#8220;biosolar&#8221; roofs for PV systems.</p>
+<p>Compatible with existing or new green roofs, the solution enhances building thermal efficiency, in line with with France's 2021 Climate and Resilience standards, which require 30% rooftop coverage with greenery or solar.</p>
+<p>The solution, targeted at developers and building owners, combines a green roof with PV panels, boosting panel efficiency by 12%, according to Adivet data.</p>
+<p>“It is the refreshing effect of the green carpets which makes it possible to improve the performance of the modules during the summer,” Aurélien Cassagnet, head of real estate operations at Vegetek, told <strong>pv magazine France</strong>. &#8220;Without any risk for the species planted under the panels. On the contrary, the photovoltaic installation creates different nooks and shades, conducive to an increase in biodiversity.”</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>The novel roof solution can reportedly be adapted to all types of solar panels.</p>
+<p>The only constraint is the capacity of a rooftop to support the weight of an installation, said Vegetek.</p>
+<p>Vegetek is based in Cenon near Bordeaux, France. It is a unit of Demonchy, a France-based supplier of raw materials for thermoplastics, food, personal care, coatings, sealants and the adhesives market.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/french-startup-offers-new-solution-for-solar-rooftops/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241375</post-id>	</item>
+		<item>
+		<title>IEA warns of Australian rooftop PV slowdown amid high costs, grid issues</title>
+		<link>https://www.pv-magazine.com/2024/01/12/iea-warns-of-australian-rooftop-pv-slowdown-amid-high-costs-grid-bottlenecks/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/iea-warns-of-australian-rooftop-pv-slowdown-amid-high-costs-grid-bottlenecks/#comments</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 12:15:56 +0000</pubDate>
+				<category><![CDATA[Commercial & Industrial PV]]></category>
+		<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Residential PV]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[residential PV]]></category>
+		<category><![CDATA[Rooftop PV]]></category>
+		<category><![CDATA[rooftop solar]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241363</guid>
+
+					<description><![CDATA[The International Energy Agency (IEA) says the rollout of rooftop solar in Australia will drop off “faster than anticipated,” with grid integration challenges and saturation of the power system contributing to a revision of expectations for renewable energy growth.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">The International Energy Agency (IEA) says the rollout of rooftop solar in Australia will drop off “faster than anticipated,” with grid integration challenges and saturation of the power system contributing to a revision of expectations for renewable energy growth.</span></p><p><strong>From <a href="https://www.pv-magazine-australia.com/2024/01/12/iea-warns-of-rooftop-slowdown-amid-rising-costs-and-grid-bottlenecks/" target="_blank" rel="noopener">pv magazine Australia</a></strong></p>
+<p>The IEA has pointed to grid bottlenecks, a lack of new federal government support, and growing investment costs as among the reasons for reining in its forecast for renewable energy growth in Australia by more than 10%.</p>
+<p>The agency also highlighted “continued policy uncertainty” following early achievement of Australia’s Large-scale Renewable Energy Target (LRET) among the reasons for it revising down the country’s forecast renewable energy additions for the 2023-28 forecast period.</p>
+<p>“In Australia, a lack of new federal incentives and rising investment costs have delayed the development of new projects,” the IEA said in <a href="https://www.iea.org/reports/renewables-2023" target="_blank" rel="noopener">Renewables 2023</a>, the latest edition of the France-based agency’s annual market report on the sector.</p>
+<p>“Notably, the distributed PV segment, which has been the <a href="https://www.pv-magazine-australia.com/2023/05/04/iea-tips-australias-outstanding-solar-economics-to-drive-rooftop-growth/" target="_blank" rel="noopener">primary source of growth</a> in Australia in recent years, is forecast to experience a faster-than-anticipated decline in installations due to saturation of the power system and increasing grid integration challenges,” the IEA said, noting that governments will need to address the issues or risk falling well short of the tripling of renewable energy capacity by 2030 that was agreed to at the COP28 climate summit in December.</p>
+<p>Australia is one of more than 100 countries that <a href="https://www.pv-magazine-australia.com/2023/12/04/australia-backs-global-renewable-energy-boost/" target="_blank" rel="noopener">backed a pledge</a> made at the summit in Dubai to triple the world’s renewable energy generation capacity by the end of the decade.</p>
+<p>“Overcoming grid bottlenecks, streamlining lengthy permitting processes and enhancing system flexibility should be prioritised to accelerate deployment of renewables,” the IEA said, adding that even projects nearing completion in Australia can still be subject to delays with commissioning processes sometimes taking “a year or longer.”</p>
+<p><img decoding="async" loading="lazy" class="alignnone size-full wp-image-87935" src="https://www.pv-magazine-australia.com/wp-content/uploads/sites/9/2024/01/iea-graph-1.jpg" alt="" width="599" height="369" data-attachment-id="87935" data-permalink="https://www.pv-magazine-australia.com/2024/01/12/iea-warns-of-rooftop-slowdown-amid-rising-costs-and-grid-bottlenecks/iea-graph-1/" data-orig-file="https://www.pv-magazine-australia.com/wp-content/uploads/sites/9/2024/01/iea-graph-1.jpg" data-orig-size="599,369" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;David&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1705011801&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="iea graph 1" data-image-description="" data-image-caption="" data-medium-file="https://www.pv-magazine-australia.com/wp-content/uploads/sites/9/2024/01/iea-graph-1.jpg" data-large-file="https://www.pv-magazine-australia.com/wp-content/uploads/sites/9/2024/01/iea-graph-1.jpg" /></p>
+<p>Despite reining in Australia’s forecast growth, the IEA remains bullish on solar power as a whole, predicting that PV and wind will account for 95% of global renewable expansion over the 2023-28 period covered by the forecast.</p>
+<p>The amount of renewable energy capacity added to energy systems around the world grew by 50% in 2023, reaching almost 510 GW, with PV accounting for three-quarters of additions worldwide.</p>
+<p>IEA analysis shows that under existing policies and market conditions, global renewable power capacity is now expected to grow to 7,300 GW over the next five years. Solar PV and wind account for 95% of the expansion, with renewables overtaking coal to become the largest source of global electricity generation by early 2025.</p>
+<p>The report also shows that <a href="https://www.pv-magazine-australia.com/2023/11/27/solar-module-prices-may-reach-0-10-w-by-end-2024/" target="_blank" rel="noopener">prices for solar modules</a> in 2023 declined by almost 50% year-on-year, with cost reductions and fast deployment set to continue with global manufacturing capacity forecast to reach 1,100 GW by the end of 2024, significantly exceeding demand.</p>
+<p>While the outlook for solar is bright, the report provides a reality check on the momentum behind green hydrogen, assessing how many announced projects are likely to go ahead.</p>
+<p>The IEA said that more than 360 GW of electrolyser projects with start dates before 2030 had been announced but only 3% of them had reached financial close or started construction.</p>
+<p>The agency anticipates that of all the projects announced worldwide to use renewables to produce hydrogen this decade, only 7% of the proposed capacity is expected to come online by 2030.</p>
+<p>“The forecast is also less optimistic for Asia-Pacific, mostly due to uncertainty in Australia over the future of stalled projects,” the IEA said. “One project’s environmental permit had lapsed before it reached financial close, and plans for projects in Bell Bay have been put on hold due to high water and transmission congestion.”</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/iea-warns-of-australian-rooftop-pv-slowdown-amid-high-costs-grid-bottlenecks/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241363</post-id>	</item>
+		<item>
+		<title>Hybridizing residential ground source heat pumps with PVT, free cooling</title>
+		<link>https://www.pv-magazine.com/2024/01/12/hybridizing-residential-ground-source-heat-pumps-with-pvt-free-cooling/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/hybridizing-residential-ground-source-heat-pumps-with-pvt-free-cooling/#respond</comments>
+		
+		<dc:creator><![CDATA[Lior Kahana]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 11:24:46 +0000</pubDate>
+				<category><![CDATA[Distributed Storage]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Heat Pumps]]></category>
+		<category><![CDATA[Modules & Upstream Manufacturing]]></category>
+		<category><![CDATA[Residential PV]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[free cooling]]></category>
+		<category><![CDATA[ground source heat pump]]></category>
+		<category><![CDATA[ground source heat pump with PVT and free cooling]]></category>
+		<category><![CDATA[ground source heat pumps]]></category>
+		<category><![CDATA[heat pump]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[PVT]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[residential PV]]></category>
+		<category><![CDATA[Rooftop PV]]></category>
+		<category><![CDATA[rooftop solar]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241335</guid>
+
+					<description><![CDATA[Researchers in Sweden sought to raise the efficiency of ground source heat pumps by combining their operation with that of PVT systems and free cooling. Through a series of simulations, they found that this integrated solution may reduce borehole length and land area requirements.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Researchers in Sweden sought to raise the efficiency of ground source heat pumps by combining their operation with that of PVT systems and free cooling. Through a series of simulations, they found that this integrated solution may reduce borehole length and land area requirements.</span></p><p>Scientists from Sweden’s <a href="https://www.pv-magazine.com/2023/12/29/mxenes-based-organic-solar-cells-show-improved-stability/" target="_blank" rel="noopener">KTH Royal Institute of Technology</a> have investigated the potential coupling of a ground source heat pump (GSHP) with both <a href="https://www.pv-magazine.com/2023/10/19/pvt-driven-geothermal-heat-pump-system-for-greenhouses/" target="_blank" rel="noopener">photovoltaic-thermal</a> (PVT) energy and free cooling (FC).</p>
+<p>FC uses low external air temperatures to assist in chilling water that is then used for air conditioning or industrial processes.</p>
+<p>“In the context of ground source heat pump systems, free cooling, also known as direct-ground cooling or passive cooling, utilizes the soil as a heat sink using only a heat exchanger and a circulation pump,” they explained. “This approach allows the heat to be taken from indoor spaces to provide cooling while simultaneously regenerating the borehole heat exchanger.”</p>
+<p>In the proposed configuration of the so-called multi-source (MS) system, PVT and FC are utilized to regenerate ground temperature in the borehole. In unbalanced systems, ground temperature decreases over time due to heat extraction, reducing the overall system efficiency and causing the heat pump to shut down.</p>
+<p>Using the simulation software, the researchers assessed the ideal placement of the FC in the system in a multi-family house in Stockholm.</p>
+<p>“Since both the PVT and FC loops are competing against each other during the summer months to use the borehole field as a heat sink, it becomes necessary to do an interference analysis of the MS system for the three different system configurations,” they explained.</p>
+<figure id="attachment_241345" style="width: 600px" class="wp-caption aligncenter"><img data-attachment-id="241345" data-permalink="https://www.pv-magazine.com/2024/01/12/hybridizing-residential-ground-source-heat-pumps-with-pvt-free-cooling/1-s2-0-s2667113123000189-gr10/" data-orig-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/1-s2.0-S2667113123000189-gr10.jpg" data-orig-size="715,367" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-image-caption="&lt;p&gt;Varying borehole count and spacing&lt;/p&gt;
+" data-medium-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/1-s2.0-S2667113123000189-gr10-600x308.jpg" data-large-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/1-s2.0-S2667113123000189-gr10.jpg" decoding="async" loading="lazy" class="size-medium wp-image-241345" src="https://www.pv-magazine.com/wp-content/uploads/2024/01/1-s2.0-S2667113123000189-gr10-600x308.jpg" alt="" width="600" height="308" srcset="https://www.pv-magazine.com/wp-content/uploads/2024/01/1-s2.0-S2667113123000189-gr10-600x308.jpg 600w, https://www.pv-magazine.com/wp-content/uploads/2024/01/1-s2.0-S2667113123000189-gr10.jpg 715w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption class="wp-caption-text">Varying borehole count and spacing <p><i>Image: KTH Royal Institute of Technology,Solar Energy Advances, CC BY 4.0 DEED<br />
+</i></p>
+</figcaption></figure>
+<p>According to their finding, the ideal placement is between the borehole heat exchanger (BH) and the PVT, as it achieves an interference ratio of 0.89%. In comparison, placing the FC between the heat pump (HP) and the BH had a ratio of 12.2%, and placing it between the PVT and the HP had an interference of 19.25%.</p>
+<p>“The results show that the most important factor that causes interference between the two systems is their relative placement in the system,” they highlighted. “However, this configuration reduces the thermal yield of the PVT collector by 7.24% compared to the PVT+GSHP case.”</p>
+<p>The group compared the performance of the MS system with that of a GSHP alone, that of a GSHP using only FC, and that of a GSHP using only PVT. Other variables compared in the simulation were the number of boreholes the system uses (4-6), the spacing between them (5m-15m), and the number of modules on the PVT unit (0-144).</p>
+<p>“Free cooling has a minimal impact on the seasonal performance factor (SPF) of the GSHP system, enhancing it at most by 0.7% for the smallest borehole field,” they stated. “On the other hand, the SPF4 of the GSHP+PVT systems gradually converges with that of a multi-source system as the number of PVT modules increases. This phenomenon arises because the proportion of heat injected by the PVT system becomes more significant relative to that of FC.”</p>
+<p>Concluding their work, the research group assessed that the FC’s contribution to improving the SPF of the MS system is minimal compared to the contribution of PVT. “The only scenario studied where FC can reduce the land requirement is if the BH spacing is decreased to 10m, which leads to a reduction of 66.6% with a slightly lower SPF of 3.16 compared to 3.17 for GSHP-only,” they noted.</p>
+<p>Their findings were presented in “<a href="https://www.sciencedirect.com/science/article/pii/S2667113123000189" target="_blank" rel="noopener">Solar Photovoltaic/Thermal (PVT) Technology Collectors and Free Cooling in Ground Source Heat Pump Systems</a>,” published in <em>Solar Energy Advances</em>. &#8220;The results demonstrate that the integration of PVT and FC not only maintains the cooling supply but also enhances heat pump performance, all the while reducing borehole length and land area requirements,&#8221; they concluded.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/hybridizing-residential-ground-source-heat-pumps-with-pvt-free-cooling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241335</post-id>	</item>
+		<item>
+		<title>Perovskite solar module based on new interconnection tech achieves 21.37% efficiency</title>
+		<link>https://www.pv-magazine.com/2024/01/12/perovskite-solar-module-based-on-new-interconnection-tech-achieves-21-37-efficiency/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/perovskite-solar-module-based-on-new-interconnection-tech-achieves-21-37-efficiency/#respond</comments>
+		
+		<dc:creator><![CDATA[Emiliano Bellini]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 10:49:53 +0000</pubDate>
+				<category><![CDATA[Modules & Upstream Manufacturing]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[Perovskite]]></category>
+		<category><![CDATA[perovskite solar cells]]></category>
+		<category><![CDATA[perovskite solar modules]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar cell]]></category>
+		<category><![CDATA[Solar Cells]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241394</guid>
+
+					<description><![CDATA[Chinese solar perovskite specialist Mellow Energy and the Jinan University developed a new manufacturing process for perovskite solar modules that enables the formation of a protective layer at the interface between the perovskite absorber and the electron transport layer. This prevents the effusion of volatile components from the perovksite film.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Chinese solar perovskite specialist Mellow Energy and the Jinan University developed a new manufacturing process for perovskite solar modules that enables the formation of a protective layer at the interface between the perovskite absorber and the electron transport layer. This prevents the effusion of volatile components from the perovksite film.</span></p><p>China-based perovskite solar cell and module manufacturer <a href="https://www.pv-magazine.com/magazine-archive/the-dawn-of-perovskites-in-china/" target="_blank" rel="noopener">Mellow Energy</a>, a spin-off of the Institute of New Energy Technology at<a href="https://www.pv-magazine.com/2022/09/15/perovskite-solar-module-achieves-21-07-efficiency-via-nanosecond-laser-tech/" target="_blank" rel="noopener"> Jinan University</a>, has fabricated a monolithic perovskite solar module based on an interconnection technique that reportedly prevents the effusion of volatile components from the perovskite solar cell absorber.</p>
+<p>&#8220;In monolithic perovskite solar modules, the migration of ions in the interconnect region is a critical factor that affects both efficiency and stability,&#8221; Shaohang Wu, a researcher at Jinan University, told <strong>pv magazine</strong>. &#8220;To address this issue, Jinan University and Mellow Energy have proposed an innovative method for in-situ generation of ion barrier layers, resulting in a substantial enhancement in efficiency and stability. This gas-phase treatment technique requires simple equipment, is user-friendly, and eliminates the need for additional coating processes, making it highly suitable for integration into production lines.&#8221;</p>
+<p>The scientists fabricated the panel with an <a href="https://www.pv-magazine.com/2023/12/05/inverted-perovskite-organic-tandem-solar-cell-achieves-23-07-efficiency-via-metal-ion-doped-absorber/" target="_blank" rel="noopener">inverted</a> perovskite cell based on an anti-diffusion layer, a substrate made of glass and indium tin oxide (ITO), a hole transport layer (HTL) made of <a href="https://www.pv-magazine.com/2022/09/21/inverted-perovskite-solar-cell-achieves-22-31-efficiency-via-novel-electron-accepting-interlayer/" target="_blank" rel="noopener">poly-triarylamine</a> (PTAA), a 3D-2D perovskite absorber hybridized with PoBx species, an electron transport layer (ETL) based on a buckminsterfullerene (C60) and <span dir="ltr" role="presentation"><span class="title-text">tin(IV) oxide (SnO2)</span></span>, and a silver (Ag) metal. They interconnected the solar cells via <a href="https://www.pv-magazine.com/2021/03/02/laser-based-p3-scribing-for-perovskite-mini-modules-with-19-efficiency/" target="_blank" rel="noopener">P1, P2, and P3 scribes</a>.</p>
+<p>They explained that the ETL was deposited on the perovskite absorber via atomic layer deposition (ALD) to inhibit the vertical escape of volatile species. They then applied post-annealing to improve the redistribution and recrystallization of the perovskite composition. The <a href="https://www.pv-magazine.com/2023/11/14/all-perovskite-tandem-solar-cell-with-2d-3d-heterostructure-achieves-28-1-efficiency/" target="_blank" rel="noopener">2D/3D heterostructure</a> is aimed at accelerating the charge extraction at the perovskite/C60 interface and suppressing light-induced halide segregation.</p>
+<p>&#8220;PbOx materials are directionally generated by selective growth using a gas-solid reaction method,&#8221; the scientists said. &#8220;And we have confirmed that PbOx can be a good barrier and passivation layer.&#8221;</p>
+<p>Tested under standard illumination conditions, the solar cell achieved a power conversion efficiency of 21.37%, an open-circuit voltage of 7.195 V, a short-circuit current of 47.15 mA, and a fill factor of 80.89%. The device was also able to retain around 90% of its initial efficiency after 1,184 h.</p>
+<p>The solar module and the related manufacturing process were described in the paper &#8220;<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202309310" target="_blank" rel="noopener">Efficient and Stable Perovskite Solar Modules Enabled by Inhibited Escape of Volatile Species</a>,&#8221; which was recently published in <em>Advanced Materials</em>. &#8220;This scheme provides a good idea for achieving efficient and stable perovskite photovoltaic modules in industry,&#8221; the research group stated.</p>
+<p>Another research group at Jinan University recently unveiled a <a href="https://www.pv-magazine.com/2022/09/15/perovskite-solar-module-achieves-21-07-efficiency-via-nanosecond-laser-tech/" target="_blank" rel="noopener">perovskite solar module</a> with an efficiency of 21.07%. This device was fabricated through selective nanosecond-pulse and laser-induced ablation to obtain the high-quality interconnection.</p>
+<p>&nbsp;</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/perovskite-solar-module-based-on-new-interconnection-tech-achieves-21-37-efficiency/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241394</post-id>	</item>
+		<item>
+		<title>Hawaiian utility to balance grid with 565 MWh battery</title>
+		<link>https://www.pv-magazine.com/2024/01/12/hawaiian-utility-to-balance-grid-with-565-mwh-battery/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/hawaiian-utility-to-balance-grid-with-565-mwh-battery/#comments</comments>
+		
+		<dc:creator><![CDATA[Ryan Kennedy]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 09:45:02 +0000</pubDate>
+				<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Utility Scale Storage]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[battery]]></category>
+		<category><![CDATA[Battery storage]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Storage]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241359</guid>
+
+					<description><![CDATA[A large grid-scale energy storage project in Hawaii, featuring Tesla Megapacks, could potentially minimize the curtailment of renewables output.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">A large grid-scale energy storage project in Hawaii, featuring Tesla Megapacks, could potentially minimize the curtailment of renewables output.</span></p><p><strong>From <a href="https://pv-magazine-usa.com/2024/01/11/first-solar-opens-manufacturing-plant-in-india/" target="_blank" rel="noopener">pv magazine USA</a></strong></p>
+<p><span data-contrast="auto">Plus Power has started operating its Kapolei Energy Storage (KES) facility on Oahu, Hawaii, helping the state in its transition from fossil fuels to solar and wind.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">The KES project adds 135 MW/540 MWh to the Hawaiian Electric grid, with an additional 50 MW/25 MWh of additional “fast frequency response” to support grid stability. </span></p>
+<p><span data-contrast="auto">The advanced battery has “virtual inertia” to replicate the power-smoothing function of a conventional spinning turbine. It has “black start” capabilities, which supports grid recovery in the event of a blackout.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">“It’s the first time a battery has been used by a major utility to balance the grid: providing fast frequency response, synthetic inertia, and black start,” said Brandon Keefe, executive chairman, Plus Power. This project is a postcard from the future – batteries will soon be providing these services, at scale, on the mainland.”  </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">Located on 8 acres of industrial land on the southwest side of Oahu, the project is comprised of 158 Tesla Megapack 2 XL lithium-ferro-phosphate batteries, each about the size of a shipping container.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">The battery can serve as a grid “shock absorber,” serving a role normally performed by combustion-powered plants. It can respond to grid signals in 250 milliseconds, far faster than the several minutes that conventional power plants take to fire up.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">“Energy storage technology that responds quickly to constantly changing conditions is an essential tool for us to use to manage the grid and operate it as efficiently as possible,” said Jim Alberts, senior vice president and chief operations officer, Hawaiian Electric.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">Solar power has become abundant, leading Hawaiian Electric to have to curtail, or turn off, large volumes of utility-scale solar and wind to keep the system in balance. The new energy storage capacity is expected to allow the utility to reduce renewable energy curtailments by 69%. It is also expected to enable 10% more new utility-scale renewables on the grid than previous models allowed.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">Hawaiian Electric said it expects the battery to save its customers on electricity bills. The utility estimates the battery will reduce electric bills by $0.28 per month over its 20-year contract life.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">The KES battery plant is interconnected near three of Hawaiian Electric’s critical power generation facilities, enabling a rapid reboot of those power plants in the event of an island-wide emergency. This is known as “black start” capability.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">The batteries will help replace grid capacity formerly provided by an AES coal-fired power plant less than a mile away. The plant used to provide about 20% of Oahu’s electricity, home to nearly one million residents. The plant closed in September 2022.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">Project developer, owner, and operator Plus Power has a development portfolio of over 10 GW of projects in transmission queues across 28 states and Canada. It has over $1.8 billion in project financings announced as of October 2023. The company expects to be operating seven additional large-scale energy storage plants across Arizona and Texas, adding 1325 MW / 3500 MWh of storage by June 2024.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><span data-contrast="auto">“Our projects, like KES, help our customers provide affordable, reliable, clean electricity on hot summer afternoons and cold winter nights, while enabling the decarbonization of the electric grid,” said Keefe.</span></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/hawaiian-utility-to-balance-grid-with-565-mwh-battery/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241359</post-id>	</item>
+		<item>
+		<title>Grew Energy to build 2.8 GW wafer, solar cell factory in India</title>
+		<link>https://www.pv-magazine.com/2024/01/12/grew-energy-to-build-2-8-gw-wafer-solar-cell-factory-in-india/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/grew-energy-to-build-2-8-gw-wafer-solar-cell-factory-in-india/#respond</comments>
+		
+		<dc:creator><![CDATA[Uma Gupta]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 08:30:41 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Modules & Upstream Manufacturing]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar cell]]></category>
+		<category><![CDATA[Solar Cells]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[wafers]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241369</guid>
+
+					<description><![CDATA[Grew Energy has signed a $457.37 million deal to set up a 2.8 GW factory in India. The state government of Gujarat will facilitate approvals for the manufacturing unit.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Grew Energy has signed a $457.37 million deal to set up a 2.8 GW factory in India. The state government of Gujarat will facilitate approvals for the manufacturing unit.</span></p><p><strong>From <a href="https://www.pv-magazine-india.com/2024/01/11/grew-energy-to-invest-inr-3800-crore-for-2-8-gw-solar-cell-wafer-unit-in-gujarat/" target="_blank" rel="noopener">pv magazine India</a></strong></p>
+<p><span data-contrast="auto"><a href="https://www.pv-magazine-india.com/2023/04/07/grew-wins-2-gw-wafer-to-module-capacity-under-pli-scheme/" target="_blank" rel="noopener">Grew Energy</a> has signed an agreement worth $457.37 million with the government of Gujarat under the 10th edition of the Vibrant Gujarat Global Summit. </span></p>
+<p><span data-contrast="auto">The company will set up a <a href="https://www.pv-magazine-india.com/2023/10/11/grew-expanding-solar-module-capacity-to-6-gw-adding-2-8-gw-of-ingots-to-cells-production-lines/" target="_blank" rel="noopener">2.8 GW solar cell and wafer manufacturing</a> unit at Dholera, Gujarat. The Gujarat government will help to facilitate the necessary clearances and expedite the establishment process of the unit. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:160,&quot;335559740&quot;:252}"> </span><span data-contrast="auto">The project is estimated to create jobs for more than 1,600 people. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:160,&quot;335559740&quot;:252}"> </span></p>
+<p><span data-contrast="auto">The investment is the biggest in the history of Grew Energy. The company will raise the funds through a mix of internal accruals and external funding.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:160,&quot;335559740&quot;:252}"> </span></p>
+<p class="paragraph"><span xml:lang="EN-IN" data-contrast="auto">&#8220;We now have a head-start to establish our 2.8 GW solar cell and wafer manufacturing unit in Gujarat,&#8221; said <span class="normaltextrun">Vinay Thadani, director and CEO of Grew Energy. &#8220;</span>We plan to commence the establishment process of our Dholera unit in 2025 and envision this to be a cornerstone for the company’s growth and future expansion plans.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:160,&quot;335559740&quot;:252}"><span class="eop"> </span></span></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/grew-energy-to-build-2-8-gw-wafer-solar-cell-factory-in-india/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241369</post-id>	</item>
+		<item>
+		<title>Solar wafer prices stabilize with potential for future price hike</title>
+		<link>https://www.pv-magazine.com/2024/01/12/solar-wafer-prices-stabilize-with-potential-for-future-price-hike/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/solar-wafer-prices-stabilize-with-potential-for-future-price-hike/#comments</comments>
+		
+		<dc:creator><![CDATA[pv magazine]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 07:56:49 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Modules & Upstream Manufacturing]]></category>
+		<category><![CDATA[Opinion & Analysis]]></category>
+		<category><![CDATA[ingots]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[polysilicon]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar cell]]></category>
+		<category><![CDATA[Solar Cells]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[wafers]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241384</guid>
+
+					<description><![CDATA[In a new weekly update for <b>pv magazine</b>, OPIS, a Dow Jones company, provides a quick look at the main price trends in the global PV industry.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">In a new weekly update for <b>pv magazine</b>, OPIS, a Dow Jones company, provides a quick look at the main price trends in the global PV industry.</span></p><p>Solar wafer prices this week held steady following four consecutive weeks of falling prices. FOB China prices of Mono PERC M10 wafers trended flat on-week at $0.241 per piece (pc), while Mono PERC G12 wafer prices remained at $0.356/pc.</p>
+<p><img data-attachment-id="241385" data-permalink="https://www.pv-magazine.com/2024/01/12/solar-wafer-prices-stabilize-with-potential-for-future-price-hike/price-graph3-v1/" data-orig-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/Price-Graph3.v1-scaled.jpg" data-orig-size="2560,1306" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Price Graph(3).v1" data-image-description="" data-image-caption="" data-medium-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/Price-Graph3.v1-600x306.jpg" data-large-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/Price-Graph3.v1-1200x612.jpg" decoding="async" loading="lazy" class="size-medium wp-image-241385 aligncenter" src="https://www.pv-magazine.com/wp-content/uploads/2024/01/Price-Graph3.v1-600x306.jpg" alt="" width="600" height="306" srcset="https://www.pv-magazine.com/wp-content/uploads/2024/01/Price-Graph3.v1-600x306.jpg 600w, https://www.pv-magazine.com/wp-content/uploads/2024/01/Price-Graph3.v1-1200x612.jpg 1200w, https://www.pv-magazine.com/wp-content/uploads/2024/01/Price-Graph3.v1-768x392.jpg 768w, https://www.pv-magazine.com/wp-content/uploads/2024/01/Price-Graph3.v1-1536x783.jpg 1536w, https://www.pv-magazine.com/wp-content/uploads/2024/01/Price-Graph3.v1-2048x1045.jpg 2048w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>The primary cause of stable prices is a notable reduction in the availability of Mono PERC wafers, according to numerous sources. Multiple wafer producers have reportedly aggressively decreased operating rates for Mono PERC wafers in favor of switching their manufacturing lines from Mono PERC to n-type wafers.</p>
+<p>In addition, some small and medium-sized wafer producers that have been selling their Mono PERC M10 wafers at low EXW pricing of between CNY1.8 ($0.25)/pc and CNY1.85/pc on the Chinese domestic market have successfully lowered their stock, according to a market observer. Consequently, the low-price portion for such wafers has vanished, with the majority of the price negotiation focused on the mainstream CNY1.93/pc, according to OPIS’ market survey.</p>
+<p>There have also been reports of an impending price hike for Mono PERC wafers in the market. Multiple sources stated that a slight and temporary price increase for Mono PERC wafers may occur as a result of their decreasing supply.</p>
+<p>Furthermore, the wafer market's total operating rate has decreased as a result of some companies' unstable n-type wafer production lines. According to the projection of the Silicon Industry of China Nonferrous Metals Industry Association, China's overall wafer production output in January might range from 54 GW to 56 GW, indicating a decline of 7.92% month over month.</p>
+<p>According to a market expert, wafer manufacturers still try their best to maintain operating rates at a particular level despite the continuous wafer overcapacity. At present, polysilicon prices make up about half of wafer production costs, the source added, and went on to say that when polysilicon prices are nearly at their floor, it is essential for wafer makers to maintain specific operating rates to reduce non-silicon costs by as much as possible.</p>
+<p>It’s an undeniable fact that the market for wafers is currently experiencing a severe overcapacity, according to a source in the polysilicon segment, who added that she is not optimistic about Chinese wafer businesses expanding into production overseas as one of the biggest obstacles is the high cost of producing abroad. Selecting a factory location in regions appropriate for labor-intensive businesses is crucial, said the source, who concluded that the best investment destination for this industry may still be Southeast Asia.</p>
+<p><em>OPIS, a Dow Jones company, provides energy prices, news, data, and analysis on gasoline, diesel, jet fuel, LPG/NGL, coal, metals, and chemicals, as well as renewable fuels and environmental commodities. It acquired pricing data assets from Singapore Solar Exchange in 2022 and now publishes the <a href="https://www.opisnet.com/product/pricing/spot/apac-solar-weekly-report-pv-magazine/" target="_blank" rel="noopener">OPIS APAC Solar Weekly Report</a>.</em></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/solar-wafer-prices-stabilize-with-potential-for-future-price-hike/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241384</post-id>	</item>
+		<item>
+		<title>First Solar opens 3.3 GW solar panel factory in India</title>
+		<link>https://www.pv-magazine.com/2024/01/12/first-solar-opens-3-3-gw-solar-panel-factory-in-india/</link>
+					<comments>https://www.pv-magazine.com/2024/01/12/first-solar-opens-3-3-gw-solar-panel-factory-in-india/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne Fischer]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2024 07:45:42 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Modules & Upstream Manufacturing]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar cell]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241356</guid>
+
+					<description><![CDATA[India’s first fully vertically integrated solar manufacturing plant will produce First Solar’s Series 7 solar PV modules, which were developed at the company’s research centers in the United States. The new facility employs 1,000 people.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">India’s first fully vertically integrated solar manufacturing plant will produce First Solar’s Series 7 solar PV modules, which were developed at the company’s research centers in the United States. The new facility employs 1,000 people.</span></p><p><strong>From <a href="https://pv-magazine-usa.com/2024/01/11/first-solar-opens-manufacturing-plant-in-india/" target="_blank" rel="noopener">pv magazine USA</a></strong></p>
+<p>First Solar has inaugurated a new manufacturing facility in Tamil Nadu, India, with a capacity of 3.3 GW.</p>
+<p>India’s first fully vertically integrated solar manufacturing plant will produce First Solar’s Series 7 solar PV modules, which were optimized for the Indian market. The facility employs approximately 1,000 people.</p>
+<p>The company has invested $700 million in the facility, including $500 million of previously announced financing from the US International Development Finance Corp. (DFC). The facility is First Solar’s sixth operational factory in the world, with others in the United States, Malaysia and Vietnam.</p>
+<p>“The United States is leveraging American innovation and technology to diversify critical energy supply chains around the world and drive economic growth in India,” said DFC CEO Scott Nathan. “That’s good for the United States and it’s good for India. This $500 million in financing reflects the increasing strength of our partnership with India – DFC’s largest market and a like-minded partner with a dynamic private sector.”</p>
+<p>First Solar reports that its thin-film PV modules are produced using a continuous process under one roof that does not rely on Chinese crystalline silicon supply chains.</p>
+<p><em>To continue reading, please visit our <a href="https://pv-magazine-usa.com/2024/01/11/first-solar-opens-manufacturing-plant-in-india/" target="_blank" rel="noopener"><strong>pv magazine USA</strong></a> website. </em></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/12/first-solar-opens-3-3-gw-solar-panel-factory-in-india/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241356</post-id>	</item>
+		<item>
+		<title>Greenvolt secures 1.2 GW in Polish auction</title>
+		<link>https://www.pv-magazine.com/2024/01/11/greenvolt-secures-1-2-gw-of-solar-in-polish-auction/</link>
+					<comments>https://www.pv-magazine.com/2024/01/11/greenvolt-secures-1-2-gw-of-solar-in-polish-auction/#comments</comments>
+		
+		<dc:creator><![CDATA[Angela Skujins]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 16:45:50 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Battery storage]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Greenvolt]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[Poland]]></category>
+		<category><![CDATA[PPA]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[PV plant]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[residential PV]]></category>
+		<category><![CDATA[Rooftop PV]]></category>
+		<category><![CDATA[rooftop solar]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar cell]]></category>
+		<category><![CDATA[Solar Cells]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Storage]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Tender]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241315</guid>
+
+					<description><![CDATA[Greenvolt Power, a Portuguese independent power producer, says it was awarded 1.2 GW of capacity for six battery energy storage systems (BESS) in a recent renewable energy auction in Poland, claiming it was the “top winner."]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Greenvolt Power, a Portuguese independent power producer, says it was awarded 1.2 GW of capacity for six battery energy storage systems (BESS) in a recent renewable energy auction in Poland, claiming it was the “top winner."</span></p><p>Greenvolt Power announced it was awarded 1.2 GW capacity for six BESS projects in Poland at the end of last year, also claiming it was the “top winner” of the renewable energy auction round.</p>
+<p>It pitched a total capacity of 1.4 GW and achieved 1.2 GW of awarded 17-year capacity payments, the company said on Tuesday, adding the BESS projects would be “reserve capacity” for the Polish electricity grid if minimum system capacity was not guaranteed. Greenvolt Power will be remunerated PLN 244.90/kW ($6.18/kW) per year as part of the arrangement.</p>
+<p>Poland’s Energy Regulatory Office <a href="https://www.pv-magazine.com/2023/12/01/poland-allocates-494-mw-of-solar-in-2023-auctions/" target="_blank" rel="noopener">announced in December</a> it awarded 494 MW of solar in the auction round, with 123 MW for installations smaller than 1 MW and 471 MW for projects larger than 1 MW. More than 274 TWh of electricity worth almost PLN 67 billion between 2016 to 2023 has been tendered in Poland, the Energy Regulatory Office said.</p>
+<p>Poland recorded <a href="https://www.pv-magazine.com/2023/05/30/poland-tops-13-gw-of-pv-capacity/">12.4 GW</a> of installed PV capacity at the end of 2022, according to data from the Polish research institute <a href="https://www.pv-magazine.com/2023/03/29/one-year-of-net-billing-in-poland/">Instytut Energetyki Odnawialnej</a> (IEO). The institute estimates the country's installed solar capacity could more than double to <a href="https://www.pv-magazine.com/2023/07/06/poland-to-add-14-36-gw-of-new-solar-by-end-of-2025/">26 GW</a> by the end of 2025, with 5 GW of solar projects added to the grid last year.</p>
+<p>SolarPower Europe said there were <a href="https://www.pv-magazine.com/2022/12/19/europe-added-41-4-gw-of-new-solar-in-2022/">4.9 GW of new solar additions</a> in 2022, making Poland the third-best solar market in the European Union.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/11/greenvolt-secures-1-2-gw-of-solar-in-polish-auction/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241315</post-id>	</item>
+		<item>
+		<title>Valmont Solar opens mounting system factory in Brazil</title>
+		<link>https://www.pv-magazine.com/2024/01/11/valmont-solar-opens-mounting-system-factory-in-brazil/</link>
+					<comments>https://www.pv-magazine.com/2024/01/11/valmont-solar-opens-mounting-system-factory-in-brazil/#respond</comments>
+		
+		<dc:creator><![CDATA[Patrick Jowett]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 16:30:02 +0000</pubDate>
+				<category><![CDATA[Balance of Systems]]></category>
+		<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[Utility Scale PV]]></category>
+		<category><![CDATA[mounting structure]]></category>
+		<category><![CDATA[Mounting system]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[PV plant]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241322</guid>
+
+					<description><![CDATA[Valmont Solar says its new production facility boasts the largest tracker control system manufacturing unit in Brazil and will create more than 300 new jobs. The solar tracker specialist says the factory will serve as a vital supply hub for the Latin American market.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Valmont Solar says its new production facility boasts the largest tracker control system manufacturing unit in Brazil and will create more than 300 new jobs. The solar tracker specialist says the factory will serve as a vital supply hub for the Latin American market.</span></p><p><a href="https://www.pv-magazine.com/2020/06/08/valmont-becomes-largest-shareholder-of-brazilian-pv-company-solbras/" target="_blank" rel="noopener">Valmont Solar</a>, a unit of US infrastructure developer <a href="https://www.pv-magazine.com/2018/08/06/valmont-acquires-75-stake-in-italian-tracker-provider-convert/" target="_blank" rel="noopener noreferrer">Valmont Industries</a>, has opened a new logistics and manufacturing unit in Contagem, southeastern Brazil.</p>
+<p>The facility features the largest tracker control system manufacturing unit in Brazil, a working demo tracker, training center, and quality testing lab, as well as a pre-assembly manufacturing line, warehouse, and administrative offices.</p>
+<p>Valmont Solar said it also intends to integrate a solar power plant to sustainably power its operations. The new headquarters can produce 250 MW of trackers per month and dispatch 600 tons of material per day.</p>
+<p>Valmont Solar said the facility will serve as a vital hub to supply the Latin American market and contribute significantly to environmental sustainability efforts in the region. It is expected to create more than 300 new jobs, alongside an additional 50 indirect job opportunities through associated suppliers in 2024.</p>
+<p>The site builds on the solar tracker specialist’s ongoing expansion and investment in Brazil. Brazilian solar energy association Absolar has estimated that <a href="https://www.pv-magazine.com/2023/12/06/brazil-set-to-potentially-install-9-3-gw-of-pv-in-2024-says-absolar/">new investments</a> in Brazil’s PV sector could exceed BRL 38.9 billion ($7.8 billion) in 2024.</p>
+<p>“The opening of Valmont Solar’s new headquarters in Contagem represents more than just an expansion of our operations,” said Ramon Gomes, regional director for Brazil at Valmont Solar. “It’s about bringing state-of-the-art technology to Brazil, promoting renewable energy, and supporting the local economy through job creation and service engagement.&#8221;</p>
+<p>“Our new facility in Minas Gerais is strategically positioned to deliver unparalleled service and products to our customers,” Gomes added. &#8220;With the best lead times in the market and a training centre dedicated to engineering, procurement, and construction companies and asset owners, we are setting a new standard for service and delivery in the solar industry.&#8221;</p>
+<p><a href="https://www.pv-magazine.com/2018/08/06/valmont-acquires-75-stake-in-italian-tracker-provider-convert/" target="_blank" rel="noopener noreferrer">Valmont Industries</a> holds a majority stake in Brazilian solar developer Solbras. Valmont is also the largest shareholder of Italian <a href="https://www.pv-magazine.com/2018/02/23/shifting-demand-and-pricing-pressure-main-solar-tracker-challenges-gtm-research/" target="_blank" rel="noopener noreferrer">solar tracker</a> manufacturer <a href="https://www.pv-magazine.com/press-releases/convert-italia-is-back-to-intersolar-munich-again/" target="_blank" rel="noopener noreferrer">Convert Italia SpA</a>, which it <a href="https://www.pv-magazine.com/2018/08/06/valmont-acquires-75-stake-in-italian-tracker-provider-convert/" target="_blank" rel="noopener noreferrer">acquired in 2018</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/11/valmont-solar-opens-mounting-system-factory-in-brazil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241322</post-id>	</item>
+		<item>
+		<title>Acculon launches production of sodium-ion battery modules, packs</title>
+		<link>https://www.pv-magazine.com/2024/01/11/acculon-launches-production-of-sodium-ion-battery-modules-packs/</link>
+					<comments>https://www.pv-magazine.com/2024/01/11/acculon-launches-production-of-sodium-ion-battery-modules-packs/#comments</comments>
+		
+		<dc:creator><![CDATA[Marija Maisch]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 16:15:45 +0000</pubDate>
+				<category><![CDATA[Distributed Storage]]></category>
+		<category><![CDATA[Electric Vehicles]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Utility Scale Storage]]></category>
+		<category><![CDATA[Acculon Energy]]></category>
+		<category><![CDATA[battery costs]]></category>
+		<category><![CDATA[Battery storage]]></category>
+		<category><![CDATA[IDTechEX]]></category>
+		<category><![CDATA[lithium iron phosphate]]></category>
+		<category><![CDATA[lithium-ion battery]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[sodium-ion battery]]></category>
+		<category><![CDATA[sodium-ion manufacturing]]></category>
+		<category><![CDATA[UL safety standards]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241308</guid>
+
+					<description><![CDATA[US-based Acculon Energy has announced series production of its sodium-ion battery modules and packs for mobility and stationary energy storage applications. Scaled production of 2 GWh is scheduled to start in mid-2024.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">US-based Acculon Energy has announced series production of its sodium-ion battery modules and packs for mobility and stationary energy storage applications. Scaled production of 2 GWh is scheduled to start in mid-2024.</span></p><p>As the sodium-ion battery technology continues to mature, new <a href="https://www.pv-magazine.com/2023/12/19/kpit-unveils-sodium-ion-battery-with-energy-density-of-up-to-170-wh-kg/">product</a> and manufacturing announcements are coming thick and fast from newcomers and <a href="https://www.pv-magazine.com/2023/11/22/northvolt-unveils-160-wh-kg-sodium-ion-battery/">established players</a> alike.</p>
+<p>With mainly pilot plants or small manufacturing lines up and running today, US-based battery system developer and manufacturer Acculon Energy has started the series production of its sodium-ion battery modules and packs and unveiled plans to scale its production to 2 GWh by mid-2024.</p>
+<p>Acculon's first two sodium-ion products support a range of applications and are available in small and large modules, capable of building into varying capacities and voltage levels. The product are meeting the safety requirements of UL standards like 2271, 2580, 1973, and 9540, and comply with stringent UN regulations.</p>
+<p>The company has been conducting research and development with the technology since its inception in 2009, “culminating in the commercialization of sodium-ion products poised to meet the ever-growing power demands of its OEM customers.”</p>
+<p>&#8220;We've seen the technology readiness level and availability of sodium cells improve impressively over the past two years,” said Acculon President Andrew Thomas. “Along the way, we've invested heavily to validate cells in our renowned test lab and conduct pre-certification destructive testing. Our customers demand durable performance and a compelling value proposition&#8211;our sodium-ion batteries will achieve both.&#8221;</p>
+<p>Previously, Acculon Energy revealed some results of its own research into sodium-ion cells, which it described as “promising.”</p>
+<p>“On one of the high-energy sodium-ion cell types, we are now about the 300th cycle of 0.5 C rate cycling at room temperature with full depth of discharge and getting 96.3% of maximum capacity,” the company said in a press release in October. “Based on the linear degradation trend, the 80% capacity limit is projected to be reached after about 1650 cycles. This impressive level of durability, if achieved, could open a door to numerous diverse applications.”</p>
+<p>There are also other aspects that make sodium-ion batteries a viable alternative to lithium-ion technology, such as superior environmental credentials, enhanced safety, and better raw material costs.</p>
+<p>According to UK-based market research company <a href="https://www.pv-magazine.com/2023/07/17/sodium-ion-battery-production-capacity-to-grow-to-10-gwh-by-2025/">IDTechEx</a>, a sodium ion battery with a layered metal oxide cathode and hard carbon anode will have approximately 25% to 30% lower material costs than an lithium iron phosphate (LFP) battery. However, significant savings are unlikely initially as<a href="https://www.pv-magazine.com/2022/03/26/the-weekend-read-sodium-ion-batteries-go-mainstream/"> the technology will take time to scale</a>.</p>
+<p>Taking different chemistries into account, IDTechEx calculates that the average cell cost for sodium-ion batteries is $87/kWh. By the end of the decade, the production cost of sodium-ion battery cells using primarily iron and manganese will probably bottom out at around $40/kWh, which would be around $50/kWh at the pack level, the research company says. By comparison, BNEF's analysis found LFP average cell prices fell below $100/kWh in 2023.</p>
+<p>In its <a href="https://www.idtechex.com/en/research-article/sodium-ion-batteries-will-diversify-the-energy-storage-industry/30405">latest report on sodium-ion technology</a>, IDTechEx calculates that the capacities that have been publicly announced by various raw material and battery manufacturers alone add up to well over 100 GWh by 2030. “By 2025, significantly more capacity can be built up than that has been financed so far if investors are found for it in the course of 2024,” the research firm said.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/11/acculon-launches-production-of-sodium-ion-battery-modules-packs/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241308</post-id>	</item>
+		<item>
+		<title>Fonterra reveals high-temperature industrial heat pump</title>
+		<link>https://www.pv-magazine.com/2024/01/11/fonterra-reveals-high-temperature-industrial-heat-pump/</link>
+					<comments>https://www.pv-magazine.com/2024/01/11/fonterra-reveals-high-temperature-industrial-heat-pump/#respond</comments>
+		
+		<dc:creator><![CDATA[Patrick Jowett]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 16:10:21 +0000</pubDate>
+				<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Heat Pumps]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[Utility Scale Storage]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[heat pump]]></category>
+		<category><![CDATA[heat pumps]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Storage]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241285</guid>
+
+					<description><![CDATA[Fonterra, a New Zealand-based dairy producer, has started operating a new heat pump in combination with a solar thermal facility. The hybrid project transforms excess heat from chillers and compressors into a heat source for industrial use.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Fonterra, a New Zealand-based dairy producer, has started operating a new heat pump in combination with a solar thermal facility. The hybrid project transforms excess heat from chillers and compressors into a heat source for industrial use.</span></p><p>Fonterra has finalized the deployment of a high-temperature heat pump in combination with a solar thermal at its Fonterra Brands New Zealand Palmerston North production site, where it produces fresh white milk for New Zealand’s North Island.</p>
+<p>The company, which is one of the largest dairy producers in the world, says the heat pump converts excess heat from chillers and compressors into a heat source.</p>
+<p>“We’re really excited about this unique combination of a commercial heat pump and solar thermal plant helping us reduce our gas consumption and emissions output,” said Graham Thomson, site manager for Fonterra Palmerston North.</p>
+<p>The new project is expected to reduce the natural gas required by the site and remove 495 tons of CO2e per year, equivalent to taking 140 cars off the road. It is Fonterra’s fourth site to upgrade its energy infrastructure within the last year, as the company works toward its Scope 1 and Scope 2 target of 50% emissions reduction by 2030.</p>
+<p>The heat pump and solar thermal plant has secured co-funding from the Government Investment in Decarbonising Industry fund, delivered by New Zealand’s Energy Efficiency Conservation Authority.</p>
+<p>In March 2023, Germany-based manufacturer MAN Energy Solutions said it was building an <a href="https://www.pv-magazine.com/2023/03/06/renewables-powered-steam-heat-pump-for-industrial-applications/">industrial-scale heat pump</a> that generates steam without using gas for use at one of Fonterra’s farms.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/11/fonterra-reveals-high-temperature-industrial-heat-pump/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241285</post-id>	</item>
+		<item>
+		<title>GoodWe releases 335 W BIPV panels with 17.4% efficiency</title>
+		<link>https://www.pv-magazine.com/2024/01/11/goodwe-releases-335-w-bipv-panels-with-17-4-efficiency/</link>
+					<comments>https://www.pv-magazine.com/2024/01/11/goodwe-releases-335-w-bipv-panels-with-17-4-efficiency/#respond</comments>
+		
+		<dc:creator><![CDATA[Emiliano Bellini]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 14:04:19 +0000</pubDate>
+				<category><![CDATA[Modules & Upstream Manufacturing]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[BIPV]]></category>
+		<category><![CDATA[building integrated]]></category>
+		<category><![CDATA[building-integrated photovolaics]]></category>
+		<category><![CDATA[building-integrated PV]]></category>
+		<category><![CDATA[building-integrated solar]]></category>
+		<category><![CDATA[dynamic building-integrated PV]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[residential PV]]></category>
+		<category><![CDATA[Rooftop PV]]></category>
+		<category><![CDATA[rooftop solar]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241327</guid>
+
+					<description><![CDATA[The panels measure 2,116 mm × 777 mm × 3.5 mm, weigh 5.6 kg/m2, and have a temperature coefficient of -0.35% per degree Celsius.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">The panels measure 2,116 mm × 777 mm × 3.5 mm, weigh 5.6 kg/m2, and have a temperature coefficient of -0.35% per degree Celsius.</span></p><p><a href="https://www.pv-magazine.com/2022/10/18/goodwe-unveils-high-voltage-hybrid-inverter-for-ci-applications/" target="_blank" rel="noopener">GoodWe</a> has unveiled new frameless solar panels for <a href="https://www.pv-magazine.com/2021/12/10/defining-bipv/" target="_blank" rel="noopener">BIPV</a> applications.</p>
+<p>&#8220;With its construction, this innovative product is specifically tailored for low load-bearing and waterproof roofs, seamlessly integrating solar power generation,&#8221; a spokesperson from the company told <strong>pv magazine</strong>. &#8220;Galaxy's plus-lightweight and frameless design, coupled with the inclusion of 1.6mm ultra-thin glass, enhances its resilience against harsh elements like hail and high winds.&#8221;</p>
+<p>The new product line has a power output of 330 W and a power conversion efficiency of 20.4%. The open-circuit voltage is 30.47 V and the short-circuit current is 13.88 A. The panels measure 2,116 mm × 777 mm × 3.5 mm, weigh 5.6 kg/m2, and have a temperature coefficient of -0.35% per degree Celsius.</p>
+<p>The operating ambient temperature ranges from -40 C to 85 C, said the manufacturer, and the maximum system voltage is 1,500 V.</p>
+<p>GoodWe offers a 12-year product warranty and a 30-year power output guarantee. It said the panels are able to operate at 82% of their original performance after 25 years and at 80% after 30 years.</p>
+<p>In March, the Chinese producer announced a <a href="https://www.pv-magazine.com/2023/03/15/goodwe-releases-375-w-bipv-panels-with-17-4-efficiency/" target="_blank" rel="noopener">BIPV module with a power output of 315 W</a>.</p>
+<p>*The article has been updated on Jan. 12 to reflect that the module efficiency is 20.4%.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/11/goodwe-releases-335-w-bipv-panels-with-17-4-efficiency/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241327</post-id>	</item>
+		<item>
+		<title>More than 2 GW of PV installed in Austria in 2023, predicts analyst</title>
+		<link>https://www.pv-magazine.com/2024/01/11/more-than-2-gw-of-pv-installed-in-austria-in-2023-predicts-analyst/</link>
+					<comments>https://www.pv-magazine.com/2024/01/11/more-than-2-gw-of-pv-installed-in-austria-in-2023-predicts-analyst/#respond</comments>
+		
+		<dc:creator><![CDATA[Angela Skujins]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 14:00:06 +0000</pubDate>
+				<category><![CDATA[Installations]]></category>
+		<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Utility Scale PV]]></category>
+		<category><![CDATA[Austria]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[PV plant]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[residential PV]]></category>
+		<category><![CDATA[rooftop solar]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[Solar Cells]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241287</guid>
+
+					<description><![CDATA[Austrian PV Technology Platform Vice Chair Hubert Fechner tells <b>pv magazine</b> that he is confident that more than 2 GW of solar capacity was installed in Austria last year – and the figure could be as high as 2.5 GW.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Austrian PV Technology Platform Vice Chair Hubert Fechner tells <b>pv magazine</b> that he is confident that more than 2 GW of solar capacity was installed in Austria last year – and the figure could be as high as 2.5 GW.</span></p><p>More than 2 GW of solar was installed in Austria in 2023, according to Austrian PV analyst Hubert Fechner. The vice chair of  the Austrian PV Technology Platform, a PV manufacturing and research association, told <strong>pv magazine</strong> he does not have official data confirming the exact figure, but feedback from grid operators suggests the threshold has been exceeded.</p>
+<p>“If we will end up at 2.2 [GW] or 2.5 [GW] nobody knows for that moment,” he said.</p>
+<p>“But we have surpassed the threshold of 2 GW.”</p>
+<p>Austria installed 1 GW of solar in 2022, according to <a href="https://www.pv-magazine.com/2023/06/27/austria-hits-1-gw-of-annual-solar-installations/">PV Austria</a>. This brought the country’s total PV capacity to 3.78 GW – accounting for 6.6% of total electricity demand. <a href="https://www.pv-magazine.com/2023/01/09/austria-deployed-more-than-1-4-gw-of-new-solar-in-2022/">Austria</a> installed 740 MW of new PV systems in 2021, 341 MW in 2020, and 247 MW in 2019. Hubert said if the landlocked central European country maintained this installation pace, “We might reach about 20 GW by 2030 and 40 GW by 2040 as it is indicated in our national plans.”</p>
+<p>The 2021 <a href="https://www.ris.bka.gv.at/Dokumente/Erv/ERV_2021_1_150/ERV_2021_1_150.html">Renewable Energy Extension Act (EAG)</a> stipulates that 11 TWh of solar energy will need to account for 27 TWh of increased renewable electricity generation by the end of the decade. The Austrian Government said solar will “rely” on one million rooftop installations to reach the target.</p>
+<p>Fechner’s comments come as the International Energy Agency (IEA) released its national <a href="https://iea-pvps.org/wp-content/uploads/2023/12/2023_12_14_NSR-2022_Austria.pdf">survey</a> on Austrian PV applications in 2022. The report, authored by Fechner, states the local market is still dominated by rooftop installations – comprising 83% of all of PV projects. But for the first time, a “significant number of larger ground-mounted PV systems were reported&#8221; with 157 MW of utility-scale PV installed in 2022, according to the document.</p>
+<p>Fechner said rooftop solar installations were popular due to policies incentivizing PV deployment on existing infrastructure, such as buildings and car parks. The general public's anxiety over disappearing space, also known as land being &#8220;sealed,&#8221; also played into rooftop solar's popularity, he said.</p>
+<p><a href="https://www.tandfonline.com/doi/full/10.1080/09654313.2019.1604634">Research</a> shows a “ substantial” amount of Austrian permanently habitable land is continuously covered in asphalt, concrete, or other materials for residential, commercial, and infrastructural uses. “The country size is limited,” Fechner said.</p>
+<p>“PV does not seal anything, but land use is a big topic in Austria and that's why we want to have a big preference in using PV on existing buildings in a double functionality way.”</p>
+<p>He attributes the uptick in 2022 utility-scale installations to increased general acceptance of solar, more ambitious targets as well as surging argi-PV. While Fechner does not have the data surrounding solar installations on agricultural land, he said anecdotal evidence reveals “the trend of agriPV is growing.”</p>
+<p>Another trend is the growing amount of energy communities, with 600 currently operational in Austria and “many more” in development, according to the report. Fechner said the Austrian Government's Climate and Energy Fund, with €45 million ($49 million) earmarked for energy community storage, has been the “driving force for energy communities to be developed further.”</p>
+<p>Austria maintaining its 2 GW solar installation streak in the future would be a “big success,” the expert said. However, the report warns of “sustainable growth,” stating that special efforts need to be made to maintain the pace required to fulfill the larger 41 TWh by 2040 goal. Asked how sustainable growth can be achieved, Fechner said it was a “good question” and that “nobody knows” the answer.</p>
+<p>“What we have seen in 2023 was mainly what started in 2022 with the Ukraine war,” he said.</p>
+<p>“Austria has the most or the highest dependency on Russian gas in Europe. A lot of people want to get rid of it and try to find alternatives and this mainly drives two people towards PV installations and heat pumps. The market with both technologies has increased very much.”</p>
+<p>Fechner said installers are expressing anxiety that the PV bubble will eventually burst, and that connection is troublesome. He said network providers are claiming their grids are “full” and it is “no longer possible” to inject solar into infrastructure. “We need solutions,&#8221; Fechner said, before adding strengthening the domestic manufacturing sector would be another win.</p>
+<p>According to the report, no silicon, ingot or wafer products were made in Austria in 2022. However, four manufacturers – Kioto Photovoltaics GmbH, Energetica-Photovoltaic industries, DAS Energy, and Ertex-Solartechnik GmbH – produced 2,083 MW of PV modules, with Austrian solar heavyweight <a href="https://www.pv-magazine.com/2021/05/26/fronius-launches-new-inverter-for-large-scale-pv-plants/" target="_blank" rel="noopener">Fronius</a> producing 415 GW worth of inverters in the same year.</p>
+<p>“We should really try to help Austria's industry survive on the international market because this competition with Asian and Chinese production is very heavy,” Fechner said. “If we can succeed to keep our production and come out with innovative modules, inverters and other equipment, I think this would be highly successful.”</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/11/more-than-2-gw-of-pv-installed-in-austria-in-2023-predicts-analyst/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241287</post-id>	</item>
+		<item>
+		<title>Test success for robot inspector</title>
+		<link>https://www.pv-magazine.com/2024/01/11/test-success-for-robot-inspector/</link>
+					<comments>https://www.pv-magazine.com/2024/01/11/test-success-for-robot-inspector/#respond</comments>
+		
+		<dc:creator><![CDATA[pv magazine]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 13:00:57 +0000</pubDate>
+				<category><![CDATA[Opinion & Analysis]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[Utility Scale PV]]></category>
+		<category><![CDATA[Bulldog robot]]></category>
+		<category><![CDATA[Grid-scale solar]]></category>
+		<category><![CDATA[human labor versus]]></category>
+		<category><![CDATA[MC4-connector]]></category>
+		<category><![CDATA[McCarthy Building Companies]]></category>
+		<category><![CDATA[OnSight Technology]]></category>
+		<category><![CDATA[PV installations]]></category>
+		<category><![CDATA[radiometric thermal camera]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[robot inspector]]></category>
+		<category><![CDATA[Solar demand]]></category>
+		<category><![CDATA[solar generator]]></category>
+		<category><![CDATA[solar plants]]></category>
+		<category><![CDATA[Solar projects]]></category>
+		<category><![CDATA[solar site]]></category>
+		<category><![CDATA[utility-scale solar]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=240780</guid>
+
+					<description><![CDATA[Large-scale PV installations are accelerating while labor shortages prompt the industry to explore alternative strategies for delivering and operating solar plants. Utility-scale solar construction company McCarthy Building Companies, and robotics company OnSight Technology, recently teamed up to test a robotic tool to inspect field components.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Large-scale PV installations are accelerating while labor shortages prompt the industry to explore alternative strategies for delivering and operating solar plants. Utility-scale solar construction company McCarthy Building Companies, and robotics company OnSight Technology, recently teamed up to test a robotic tool to inspect field components.</span></p><p><a href="https://shop.pv-magazine.com/" target="_blank" rel="noopener"><strong>From pv magazine 12/23-01/24</strong></a></p>
+<p>Grid-scale solar segment growth and increasing labor costs are driving solar site managers to find new ways to expand inspection capabilities while reducing overheads. Solar sites require extensive preventative maintenance to keep equipment running optimally. The detailed visual inspections currently being conducted by field technicians can be laborious and time-consuming.</p>
+<p>“Most maintenance contracts include service-level guarantees requiring responsiveness and insight into system performance, and the demand for these insights is increasing each year,” said Scott Canada, from McCarthy Building Companies’ renewable energy team. “Current examples of monitoring systems and methods used include stationary monitoring systems or aerial drones but these methods often have inadequate capabilities and practical limitations.”</p>
+<p>Researchers at robotics startup OnSight Technology have developed the Bulldog robot to help bridge the gap and provide an alternative monitoring system. After incorporating enhanced technology that increases battery life and offers wireless charging, thermal camera resolution, outdoor-rated components, and advancements in machine vision training techniques, the latest ground-inspection robots were ready to be field tested.</p>
+<p>“By automating the process, inspections can be systematically completed with a higher level of accuracy and efficiency by the robot, reducing human error and maintaining a consistent level of high-quality checks,” said Graham Ryland, chief product officer with OnSight. “Not only does automation increase operational efficiency, it frees up human resources to focus on more complex tasks, thereby optimizing overall workflow.”</p>
+<h2>Field testing</h2>
+<p>McCarthy partnered with OnSight on several solar projects and use cases. The robot maker built out barcode-scanning capabilities for a 195 MW project in Arizona that included geo-location as a contractual requirement to ensure ease of operation and warranty fulfillment. A head-to-head comparison was conducted using human labor versus the latest technology in ground-based robotic inspection.</p>
+<p>“Through a three-phased approach, OnSight made improvements to barcode scanning on-site that increased the scanning speed from two modules per minute to 18 modules per minute, rivaling the human field technician’s rate of 21 modules per minute,” Ryland said. “This was achieved by adapting the technology on-site to optimally perform inspections.”</p>
+<p>The OnSight robot was equipped with a 4k color camera, 33x optical zoom and high-precision GPS. It operated on battery power for eight hours daily and recharged using solar generator charging stations.</p>
+<p>The robot was managed remotely by a human operator using manual and autonomous modes to undertake the scanning process, instead of eight-hour shifts and two-and-a-half-hour roundtrip commutes by field technicians to the site.</p>
+<p>Human module scanning is quicker than robot scanning but only when skilled and reliable personnel are available on site. With human scanners coping with extreme weather conditions, their overall time scanning throughout the day was significantly less than that of the robot, ensuring the per-day performance of modules scanning by a human and robot were similar.</p>
+<p>Where the robot excelled was in the accuracy and reliability of scanning mission results. This was due to the robot’s use of an auto-stop functionality, serial number integrity verification, and constant mission recording, which combined to prevent the robot from missing a barcode while scanning a row. This level of precision is important because the robot’s scanning results aligned exactly with the project’s as-built drawings and made locating a faulty module much easier.</p>
+<h2 id="tablepress-92-name" class="tablepress-table-name tablepress-table-name-id-92">Test results</h2>
+
+<table id="tablepress-92" class="tablepress tablepress-id-92 tablepress-responsive" aria-labelledby="tablepress-92-name" aria-describedby="tablepress-92-description">
+<tbody>
+<tr class="row-1">
+	<td class="column-1"><b>Production rate</b></td><td class="column-2">Current</td><td class="column-3"></td>
+</tr>
+<tr class="row-2">
+	<td class="column-1"><b>Quantity of robots or crews</b></td><td class="column-2">1</td><td class="column-3"></td>
+</tr>
+<tr class="row-3">
+	<td class="column-1"><b>Total modules</b></td><td class="column-2">470,892</td><td class="column-3"></td>
+</tr>
+<tr class="row-4">
+	<td class="column-1"><b>Module scanning start date</b></td><td class="column-2">Aug. 2, 2023</td><td class="column-3"></td>
+</tr>
+<tr class="row-5">
+	<td class="column-1"><b>Financial close date (due to owner)</b></td><td class="column-2">Aug. 15, 2023</td><td class="column-3"></td>
+</tr>
+<tr class="row-6">
+	<td class="column-1"></td><td class="column-2"><b>OnSight</b></td><td class="column-3"><b>McCarthy</b></td>
+</tr>
+<tr class="row-7">
+	<td class="column-1"><b>Modules per work-minute</b></td><td class="column-2">18</td><td class="column-3">21</td>
+</tr>
+<tr class="row-8">
+	<td class="column-1"><b>Modules per hour</b></td><td class="column-2">810</td><td class="column-3">945</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1"><b>Total modules per day</b></td><td class="column-2">6,480</td><td class="column-3">6,615</td>
+</tr>
+<tr class="row-10">
+	<td class="column-1"><b>Total modules – 20-day period</b></td><td class="column-2">129,600</td><td class="column-3">132,300</td>
+</tr>
+<tr class="row-11">
+	<td class="column-1"><b>Months to complete</b></td><td class="column-2">4</td><td class="column-3">4</td>
+</tr>
+<tr class="row-12">
+	<td class="column-1"><b>Estimated completion date</b></td><td class="column-2">May 20, 2023</td><td class="column-3">May 18, 2023</td>
+</tr>
+</tbody>
+</table>
+<span id="tablepress-92-description" class="tablepress-table-description tablepress-table-description-id-92"><i>Based on this analysis, the robot cost was one third the cost of humans performing the same task</i></span>
+<!-- #tablepress-92 from cache -->
+<p>&nbsp;</p>
+<p>Access to a high-power, radiometric thermal camera enabled the robot to perform back-of-module hotspot and MC4-connector infrared inspections and barcode scanning missions at the same time. This occurred without negatively affecting barcode scan rate unless an issue was discovered and needed to be documented.</p>
+<h2>Lessons learned</h2>
+<p>The McCarthy and OnSight collaboration illustrated that time-consuming, repetitive, and detail-oriented tasks, particularly focused on data collection and identification, are better completed with technical solutions, especially when it involves the rapid deployment of multiple automated robots. The potential benefits of ground-based robots include: cost savings on quality inspections by eliminating the need for quality engineers and manual inspections; efficient remedial work by having all issues identified with geotags; less rework for quality inspections; and higher revenues, thanks to higher DC availability.</p>
+<p>“Rather than replacing humans in the construction and commissioning of these projects, we anticipate these tools can be used to free up specialized workers and technicians to do higher-value work,” OnSight’s Ryland said. “With labor shortages and [solar] demand only expected to increase, ground-based robots make sense to incorporate on projects.”</p>
+<p><em><img data-attachment-id="236382" data-permalink="https://www.pv-magazine.com/magazine-archive/test-success-for-robot-inspector/zachary-nichols/" data-orig-file="https://www.pv-magazine.com/wp-content/uploads/2023/11/Zachary-Nichols.jpg" data-orig-size="125,125" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Zachary Nichols" data-image-description="" data-image-caption="" data-medium-file="https://www.pv-magazine.com/wp-content/uploads/2023/11/Zachary-Nichols.jpg" data-large-file="https://www.pv-magazine.com/wp-content/uploads/2023/11/Zachary-Nichols.jpg" decoding="async" loading="lazy" class="size-full wp-image-236382 alignright" src="https://www.pv-magazine.com/wp-content/uploads/2023/11/Zachary-Nichols.jpg" alt="" width="125" height="125" />About the author: <strong>Zachary Nichols</strong> is director of operations and maintenance (O&M) for McCarthy Building Companies renewables group. He provides strategic guidance for operations and maintenance of solar projects. With more than 15 years' experience in commissioning, O&M, and warranty programs, he works to deliver value to project owners and shareholders through innovation and client-service program strategies.</em></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/11/test-success-for-robot-inspector/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">240780</post-id>	</item>
+		<item>
+		<title>Dracula Technologies integrates organic solar cell into flexible storage device</title>
+		<link>https://www.pv-magazine.com/2024/01/11/dracula-technologies-integrates-organic-solar-cell-into-flexible-storage-device/</link>
+					<comments>https://www.pv-magazine.com/2024/01/11/dracula-technologies-integrates-organic-solar-cell-into-flexible-storage-device/#respond</comments>
+		
+		<dc:creator><![CDATA[Marie Beyer]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 13:00:03 +0000</pubDate>
+				<category><![CDATA[Modules & Upstream Manufacturing]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[organic photovoltaics]]></category>
+		<category><![CDATA[organic PV]]></category>
+		<category><![CDATA[organic solar]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar cell]]></category>
+		<category><![CDATA[Solar Cells]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241231</guid>
+
+					<description><![CDATA[Dracula Technologies has developed a new indoor technology for its organic photovoltaic (OPV) cells. It designed the tech to replace traditional batteries in connected devices.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Dracula Technologies has developed a new indoor technology for its organic photovoltaic (OPV) cells. It designed the tech to replace traditional batteries in connected devices.</span></p><p><strong>From <a href="https://www.pv-magazine.fr/2024/01/10/dracula-technologies-integre-une-cellule-opv-avec-un-dispositif-de-stockage-sur-film-flexible/" target="_blank" rel="noopener">pv magazine France</a></strong></p>
+<p><a href="https://www.pv-magazine.com/2023/10/19/dracula-technologies-builds-organic-pv-module-factory-in-france/" target="_blank" rel="noopener">Dracula Technologies</a> has announced a new application for its OPV cells.</p>
+<p>The French OPV specialist is presenting a device at the CES 2024 show this week that integrates the production of solar energy from mini-OPV modules and a storage device based on a flexible film. The new product is designed to increase the autonomy of connected electronic devices</p>
+<p>The &#8220;LayerVault&#8221; solution is designed to replace traditional batteries. The solar cells are based on Dracula's OPV inkjet technology, which captures both natural and artificial light. It is designed for indoor use, due to its light energy recovery system. In these devices, energy from ambient light is converted using an organic active layer composed mainly of carbon and hydrogen.</p>
+<p>The active layer absorbs light photons, generating electron-hole pairs which are then separated by an internal electric field, producing an electric current. The other layers of the organic module, such as the interfacial layers or electrodes, are designed to facilitate the extraction and collection of charges created in the active layer. According to the company, the power of the cells under indoor lighting amounts to 45 µw/cm² at 1,000 lux.</p>
+<p>The new solution is patented with its OPV inkjet technology and is designed to power ultra-low consumption electronic devices in low-light conditions under 500 lux. According to the company, the product is suitable for ultra-low power devices and efficiently powers  Low Power Wide Area Network (LPWAN) devices in sectors such as Electronic Tags (ESL), Remote Controls, Indoor Industrial Internet of Things (smart building), smart asset tracking, and indoor consumer Internet of Things.</p>
+<p>To support its deployment, Dracula Technologies has established a partnership with its investor, SemTech, which provides semiconductors, IoT systems and cloud connectivity services. The LayerVault device is compatible with sensors based on the LoRa communication protocol developed and operated by SemTech. The new device can be integrated into the group's wireless connectivity chips and other products aimed at low-consumption connected technologies.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/11/dracula-technologies-integrates-organic-solar-cell-into-flexible-storage-device/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241231</post-id>	</item>
+		<item>
+		<title>Italian startup offers drones to transport PV modules in remote locations</title>
+		<link>https://www.pv-magazine.com/2024/01/11/italian-startup-offers-drones-to-transport-pv-modules-in-remote-locations/</link>
+					<comments>https://www.pv-magazine.com/2024/01/11/italian-startup-offers-drones-to-transport-pv-modules-in-remote-locations/#comments</comments>
+		
+		<dc:creator><![CDATA[Pilar Sánchez Molina]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 12:00:04 +0000</pubDate>
+				<category><![CDATA[Modules & Upstream Manufacturing]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[PV modules]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[solar modules]]></category>
+		<category><![CDATA[solar panels]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241224</guid>
+
+					<description><![CDATA[FlyingBasket has developed a drone that can carry up to 100 kg of payload over distances of 2.5 km, and up to 5 kg across 25 km.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">FlyingBasket has developed a drone that can carry up to 100 kg of payload over distances of 2.5 km, and up to 5 kg across 25 km.</span></p><p>The Hermosa China educational channel recently published a video of a drone transporting solar panels in China's Gansu province.</p>
+<p>“A drone can transport 360 solar panels a day and 40 drones operate in shifts,” the media outlet said. without providing further details. &#8220;This will be a huge solar power plant.&#8221;</p>
+<p><strong>pv magazine</strong> identified a European startup that has just launched a drone with these functions – FlyingBasket, based in Bolzano, northern Italy.</p>
+<p>The company was established in 2015 by Moritz Moroder and Matthias Moroder. They came up with the idea of transporting solar panels with drones while they were hiking in the Dolomite Mountains in Italy and noticed a helicopter bringing food to a mountain refuge.</p>
+<p>The idea of replacing a helicopter with a drone began to take shape to make such services more sustainable, efficient and profitable. In the following years, they designed, developed and tested drone prototypes in a mountainous area where weather conditions can be extremely difficult and the first use cases were tested.</p>
+<p>“In 2020 FlyingBasket was the first operational commercial cargo drone,” they said.</p>
+<p>In October 2023 they launched the FB3 UAV, an unmanned multicopter with eight rotors powered by four rechargeable batteries, capable of transporting up to 100 kg of payload.</p>
+<p>With an empty weight of 70 kg and dimensions of 1,600 mm x 1,600 mm x 412 mm, the FB3 can reach speeds of 30 meters per second. It is capable of flying up to 2.5 km carrying 100 kg of weight, and up to 25 km with five kg. Its operating temperature range is from -10 C to 45 C.</p>
+<p>FlyingBasket currently sells the drone for €75,900 ($<span class="DFlfde SwHCTb" data-precision="2" data-value="83322.261">83.322).</span></p>
+<p>Leonardo currently owns around 10% of FlyingBasket, with around 25% in the hands of Cysero, a venture capital fund promoted by AVM Gestioni SGR and Kilometro Rosso, which invested directly in the company in March 2022. The remaining 65% is distributed among the founders and directors of the company, including the Moroder brothers.</p>
+<p><img data-attachment-id="241229" data-permalink="https://www.pv-magazine.com/2024/01/11/italian-startup-offers-drones-to-transport-pv-modules-in-remote-locations/captura-de-pantalla-2024-01-10-a-las-17-28-24/" data-orig-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/Captura-de-pantalla-2024-01-10-a-las-17.28.24.png" data-orig-size="598,957" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Captura-de-pantalla-2024-01-10-a-las-17.28.24" data-image-description="" data-image-caption="" data-medium-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/Captura-de-pantalla-2024-01-10-a-las-17.28.24-500x800.png" data-large-file="https://www.pv-magazine.com/wp-content/uploads/2024/01/Captura-de-pantalla-2024-01-10-a-las-17.28.24.png" decoding="async" loading="lazy" class="size-medium wp-image-241229 aligncenter" src="https://www.pv-magazine.com/wp-content/uploads/2024/01/Captura-de-pantalla-2024-01-10-a-las-17.28.24-500x800.png" alt="" width="500" height="800" srcset="https://www.pv-magazine.com/wp-content/uploads/2024/01/Captura-de-pantalla-2024-01-10-a-las-17.28.24-500x800.png 500w, https://www.pv-magazine.com/wp-content/uploads/2024/01/Captura-de-pantalla-2024-01-10-a-las-17.28.24.png 598w" sizes="(max-width: 500px) 100vw, 500px" /></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/11/italian-startup-offers-drones-to-transport-pv-modules-in-remote-locations/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241224</post-id>	</item>
+		<item>
+		<title>The impact of temperature on III-V solar cells</title>
+		<link>https://www.pv-magazine.com/2024/01/11/the-impact-of-temperature-on-iii-v-solar-cells/</link>
+					<comments>https://www.pv-magazine.com/2024/01/11/the-impact-of-temperature-on-iii-v-solar-cells/#comments</comments>
+		
+		<dc:creator><![CDATA[Lior Kahana]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 10:08:03 +0000</pubDate>
+				<category><![CDATA[Modules & Upstream Manufacturing]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Technology and R&D]]></category>
+		<category><![CDATA[concentrator photovoltaics]]></category>
+		<category><![CDATA[CPV]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[III-V]]></category>
+		<category><![CDATA[III-V cell]]></category>
+		<category><![CDATA[III-V materials]]></category>
+		<category><![CDATA[III-V multi-junction solar cells]]></category>
+		<category><![CDATA[III-V solar cells]]></category>
+		<category><![CDATA[multi-junction III-V solar cells]]></category>
+		<category><![CDATA[photovoltaic]]></category>
+		<category><![CDATA[photovoltaics]]></category>
+		<category><![CDATA[PV]]></category>
+		<category><![CDATA[renewable energies]]></category>
+		<category><![CDATA[Renewable Energy]]></category>
+		<category><![CDATA[Renewables]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[solar cell]]></category>
+		<category><![CDATA[solar energy]]></category>
+		<category><![CDATA[Solar Power]]></category>
+		<category><![CDATA[Solar PV]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine.com/?p=241185</guid>
+
+					<description><![CDATA[Scientists in Spain have analyzed the impact of temperature and spectral conditions on III-V solar cells employed in concentrator photovoltaic modules. They claim to have assessed the cell behavior under unprecedented operating condition.]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">Scientists in Spain have analyzed the impact of temperature and spectral conditions on III-V solar cells employed in concentrator photovoltaic modules. They claim to have assessed the cell behavior under unprecedented operating condition.</span></p><p>A research group from Spain has investigated the impact of temperature and spectral conditions on <a href="https://www.pv-magazine.com/2023/07/24/single-junction-iii-v-solar-cell-based-on-spalled-gallium-arsenide-substrate-achieves-26-9-efficiency/" target="_blank" rel="noopener">III-V solar cells</a> operating under ultra-high concentration (UHC) conditions.</p>
+<p><a href="https://www.pv-magazine.com/2019/06/10/nothing-can-bring-down-the-price-of-iii-v-solar-cells-just-add-germanium/" target="_blank" rel="noopener noreferrer">Gallium arsenide (GaAs) and other III-V materials</a> – named after the groups in the periodic table they belong to – are among the best known in terms of efficiency potential for solar cells. Their high production costs, however, have so far limited them to niche applications powering satellites and drones. In these devices, low weight and high efficiency are more pressing concerns than the cost of energy produced.</p>
+<p>The researchers considered a triple-junction solar cell based on gallium indium phosphide (GaInP), gallium indium arsenide (GaInAs), and Germanium (Ge). “The measurements presented are unprecedented, as there are no previous publications that combine different spectral and temperature-controlled experimental conditions in the UHC range, thus extending the range of studies reported in works carried out at lower concentrations,” they emphasized.</p>
+<p>To measure the I–V curves under different temperatures and power concentrations, the scientists built an experimental setup based on a multi-flash indoor solar simulator, which they say allows operating temperatures of up to 85 C and irradiance concentration levels of up to 2,200 suns. Under these conditions, they produced several sets of I-V curves based on 30 measurements per combination of temperature and concentration.</p>
+<p>“In a first approximation, the curves show that both open-circuit current (Isc) and short-circuit voltage (Voc) increase with irradiance,” they found. “However, while Isc increases with temperature, Voc decreases. Thus, the parameters exhibit similar behavior in the UHC regime to that observed at lower concentrations.”</p>
+<p>As for the short-circuit current, they identified a linear increasing dependence on temperature at constant irradiance levels and said it depends on irradiance. Considering the open-circuit values as a function of the irradiances at different temperatures, they also found a “linear fitting that depicts an increasing dependence on irradiances and a good linear fitting to the natural logarithm of the irradiance.” However, they have also found a negative linear dependence of open-circuit voltage on temperature at constant irradiance levels.</p>
+<p>Furthermore, when they analyzed the cell fill factor, the academics found a decreasing dependence as temperature and irradiance increase. &#8220;The data indicate a linear decreasing dependence of efficiency with the logarithm of irradiance,&#8221; they specified. &#8220;With respect to temperature, it shows a close linear relationship between cell efficiency and temperature at each irradiance level studied.”</p>
+<p>The team also observed a strong correlation between the relative variations of open-circuit voltage and the efficiency with temperature. In addition, they conducted an analysis of cell response measurements to spectral variations in the UHC regime by utilizing the spectral matching ratio (SMR) factor, which is the ratio of the photogenerated currents of adjacent subcells under the same irradiance levels.</p>
+<p>“For SMR&lt; 1 values the spectrum is redshifted (with lower power density at short wavelengths compared to the standard), and less generation is obtained in the top subcell,” the scientists stated. “In contrast, for SMR&gt; 1, the middle subcell has lower generation levels although the total current is not equally affected by the same relative deviations of SMR. In the opposite case, with SMR&lt; 1, the contribution of the top subcell is much lower than that of the middle subcell in the case of SMR&gt; 1.”</p>
+<p>Their findings were presented in “<a href="https://www.sciencedirect.com/science/article/pii/S0927024823004725" target="_blank" rel="noopener">Multi-junction solar cell measurements at ultra-high irradiances for different temperatures and spectra</a>,” published in <em>Solar Energy Materials and Solar Cells</em>. The group comprised researchers from the <a href="https://www.pv-magazine.com/2023/10/03/agrivoltaic-system-design-for-olive-cultivation/" target="_blank" rel="noopener">University of Jaen</a> and the Andaltec Technological Center.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine.com/2024/01/11/the-impact-of-temperature-on-iii-v-solar-cells/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241185</post-id>	</item>
+	</channel>
+</rss>
