@@ -2,7 +2,7 @@
 
 https://www.archlinux.org/feeds/news/ "~Arch Wiki"
 
-"---Odysee---"
+"---Tech---"
 
 https://odysee.com/$/rss/@AlphaNerd:8   "~Mental Outlaw"
 
@@ -10,23 +10,41 @@ https://odysee.com/$/rss/@BrodieRobertson:5 "~Brody Robertson"
 
 "---Podcasts---"
 
-file:///home/pranay/.config/newsboat/files/sean-carrolls-mindscape "~Sean Carroll"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRhV1rWIpm_pU19bBm_2RXw "~Sean Carroll"
 
-file:///home/pranay/.config/newsboat/files/huberman.xml "~Andrew Huberman"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2D2CMWXMOVWx7giW1n3LIg "~Andrew Huberman"
 
 
 "---Semiconductors---"
 
-file:///home/pranay/.config/newsboat/files/asianometry.xml "~Asianometry"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1LpsuAUaKoMzzJSEt5WImw "~Asianometry"
 
-file:///home/pranay/.config/newsboat/files/huygens.xml "~Huygens Optics"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ "~Huygens Optics"
 
-file:///home/pranay/.config/newsboat/files/pv-magazine "~PV-Magazine"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1r0DG-KEPyqOeW6o79PByw "~TechTechPotato"
 
+"---Science News YouTube---"
 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A "~Scott Manley"
 
-"---Science YouTube---"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCciQ8wFcVoIIMi-lfu8-cjQ "~Anton Petrov"
 
+"---Fun Science YouTube---"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCWeRTgd79JL0ilH0ZywSJA "~AlphaPhoenix"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ "~Nils Berglund"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ "~Branch Education"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA "~Veritasium"
+
+"---Papers---"
+
+# Add RSS feeds to PRL, PRB and other relevant journals.
+# RSS feeds to Google Scholar updates for specific profs / researchers ??
+# Arxiv feeds should be doable for chemical physics or something ?
+# Any other paper feeds 
 
 
 

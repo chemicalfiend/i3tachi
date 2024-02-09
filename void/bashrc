@@ -31,7 +31,7 @@ alias zotero="./start-zotero.sh"
 
 export PATH=$PATH:~/.local/kitty.app/bin
 export PATH=$PATH:~/.packages/packmol/
-export PATH='/home/pranay/.local/bin':"$PATH"
+export PATH=$PATH:~/.local/bin
 export PATH=$PATH:~/Downloads/packmol/
 export PATH=$PATH:/usr/bin/
 export PATH=$PATH:~/Downloads/ovito-basic-3.7.5-x86_64/bin/
