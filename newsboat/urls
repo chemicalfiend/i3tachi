@@ -1,3 +1,43 @@
+"---Papers---"
+
+http://feeds.aps.org/rss/recent/prb.xml "~PRB"
+
+http://feeds.aps.org/rss/recent/prmaterials.xml "~Physical Review Materials"
+
+http://feeds.aps.org/rss/recent/prxenergy.xml "~PRX Energy"
+
+http://feeds.aps.org/rss/recent/pre.xml "~PRE"
+
+http://rss.arxiv.org/rss/physics.chem-ph "~Arxiv chemical physics"
+
+http://rss.arxiv.org/rss/cond-mat "~Arxiv Condensed Matter"
+
+https://pubs.aip.org/rss/site_1000043/LatestOpenIssueArticles_1000024.xml "~JCP (current issue?)"
+
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce "~ACS JCTC"
+
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaembp "~ACS Applied Electronic Materials"
+
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=ancac3 "~ACS Nano"
+
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=nalefd "~ACS Nano Letters"
+
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaemcq "~ACS Applied Energy Materials"
+
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaoma6 "~ACS Applied Optical Materials"
+
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aanmf6 "~ACS Applied Nano Materials"
+
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=apchd5 "~ACS Photonics"
+
+https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=ascefj "~ACS Sensors"
+
+
+# Add RSS feeds to PRL, PRB and other relevant journals.
+# RSS feeds to Google Scholar updates for specific profs / researchers ??
+# Arxiv feeds should be doable for chemical physics or something ?
+# Any other paper feeds 
+
 "---Arch Wiki---"
 
 https://www.archlinux.org/feeds/news/ "~Arch Wiki"
@@ -39,12 +79,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ "~B
 
 https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA "~Veritasium"
 
-"---Papers---"
-
-# Add RSS feeds to PRL, PRB and other relevant journals.
-# RSS feeds to Google Scholar updates for specific profs / researchers ??
-# Arxiv feeds should be doable for chemical physics or something ?
-# Any other paper feeds 
 
 
 
