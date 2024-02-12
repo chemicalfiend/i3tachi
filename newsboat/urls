@@ -60,6 +60,8 @@ http://rss.arxiv.org/rss/cond-mat.str-el "~Arxiv cond-mat.str-el"
 
 https://pubs.aip.org/rss/site_1000043/LatestOpenIssueArticles_1000024.xml "~JCP (current issue?)"
 
+https://pubs.aip.org/rss/site_1000017/1000011.xml "~APL (current issue?)"
+
 https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce "~ACS JCTC"
 
 https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aaembp "~ACS Applied Electronic Materials"
@@ -89,6 +91,10 @@ https://www.nature.com/commsmat.rss "Nature Communications Materials"
 https://www.nature.com/npjcompumats.rss "npj computational materials"
 
 https://www.nature.com/npjflexelectron.rss "npj Flexible Electronics"
+
+http://feeds.rsc.org/rss/cp "RSC PCCP"
+
+
 
 # Add RSS feeds to PRL, PRB and other relevant journals.
 # RSS feeds to Google Scholar updates for specific profs / researchers ??
