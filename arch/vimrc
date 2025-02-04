@@ -1,4 +1,4 @@
-set rtp+=~/.vim/Vundle.vim
+set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 
@@ -9,9 +9,8 @@ Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-fugitive'
 "Plugin 'godlygeek/tabular'
 Plugin 'JuliaEditorSupport/julia-vim'
-Plugin 'lervag/vimtex'
 "Plugin 'preservim/vim-markdown'
-
+Plugin 'lervag/vimtex'
 
 call vundle#end()
 filetype plugin indent on
@@ -47,8 +46,9 @@ set clipboard+=unnamedplus
 vmap <F6> :!xclip -f -sel clip<CR>
 map <F7> mz:-1r !xclip -o -sel clip<CR>`z
 
+"vimtex stuff
 
-"latex stuff
-
+let g:vimtex_view_general_viewer = 'okular'
+let g:vimtex_compiler_method = 'latexmk'
 
 
