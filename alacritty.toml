@@ -1,0 +1,25 @@
+
+[font]
+size = 14.0
+
+[font.bold]
+family = "SourceCodeVF"
+style = "Bold"
+
+[font.bold_italic]
+family = "SourceCodeVF"
+style = "Bold Italic"
+
+[font.italic]
+family = "SourceCodeVF"
+style = "Italic"
+
+[font.normal]
+family = "SourceCodeVF"
+style = "Regular"
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/blood_moon.toml"
+]
+
